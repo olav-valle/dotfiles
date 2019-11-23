@@ -1,0 +1,6 @@
+# to add keybinds, run:
+dconf load /org/gnome/desktop/wm/keybindings/ < desktop_wm_keybindings
+dconf load /org/gnome/mutter/keybindings/ < mutter_keybindings
+dconf load /org/gnome/mutter/wayland/keybindings/ < mutter_wayland_keybindings
+dconf load /org/gnome/settings-daemon/plugins/media-keys/ < media_keys
+
