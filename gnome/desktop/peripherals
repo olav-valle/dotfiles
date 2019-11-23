@@ -1,0 +1,9 @@
+[keyboard]
+numlock-state=true
+
+[mouse]
+accel-profile='flat'
+speed=0.25
+
+[touchpad]
+two-finger-scrolling-enabled=true

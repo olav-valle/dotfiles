@@ -1,0 +1,6 @@
+[/]
+clock-show-weekday=true
+enable-animations=false
+enable-hot-corners=true
+gtk-im-module='gtk-im-context-simple'
+gtk-theme='Pop-dark'
