@@ -1,0 +1,7 @@
+#!/usr/bin/bash
+
+# This script revokes fan control from the BIOS
+# by running ./dell-bios-fan-control 0
+# followed by restarting the i8kfan daemon
+
+
