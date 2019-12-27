@@ -1,0 +1,11 @@
+[/]
+clock-format='24h'
+clock-show-weekday=true
+cursor-theme='Pop'
+enable-animations=false
+enable-hot-corners=true
+gtk-enable-primary-paste=false
+gtk-im-module='gtk-im-context-simple'
+gtk-theme='Pop-dark'
+icon-theme='Pop'
+show-battery-percentage=true

@@ -1,0 +1,19 @@
+# /etc/fstab: static file system information.
+#
+# Use 'blkid' to print the universally unique identifier for a
+# device; this may be used with UUID= as a more robust way to name devices
+# that works even if disks are added and removed. See fstab(5).
+#
+# <file system>  <mount point>  <type>  <options>  <dump>  <pass>
+PARTUUID=dbd784f0-b08d-4c49-9185-308945fe4e7d /boot/efi vfat umask=0077 0 0
+PARTUUID=98c3ba11-1b2d-42ee-9cb1-f798703e7bed /recovery vfat umask=0077 0 0
+UUID=a16e66b3-522a-4bfd-a739-5cb27f037530 / ext4 noatime,errors=remount-ro 0 0
+/dev/mapper/cryptswap none swap defaults 0 0
+#/dev/sda1 /mnt/939cda05-2cca-49c6-885b-0e90d4603c85 auto nosuid,nodev,nofail,x-gvfs-show,x-gvfs-name=DATA 0 0
+/dev/sda1 /home/mort/DATA auto nosuid,nodev,nofail,x-gvfs-show,x-gvfs-name=DATA 0 0
+#mounts pub on pascaline
+//pascaline.local/public /media/pascaline cifs username=mort,password=telepathy,uid=1000,iocharset=utf8,vers=1.0 0 0
+
+#mounts pub on hole
+//hull.local/public /home/mort/hole/ cifs username=pi,password=torrent,uid=1000,iocharset=utf8,vers=1.0 0 0
+/dev/disk/by-id/usb-Kingston_DataTraveler_3.0_0C9D9280CC85F2B0885601C2-0:0 /home/mort/TheCore auto nosuid,nodev,nofail,noauto,x-gvfs-show 0 0

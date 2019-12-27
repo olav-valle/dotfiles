@@ -1,0 +1,36 @@
+[/]
+app-picker-view=uint32 1
+command-history=['r', 'dellfan']
+disable-user-extensions=false
+enable-hot-corners=true
+enabled-extensions=['always-show-workspaces@system76.com', 'batteryiconfix@kylecorry31.github.io', 'pop-shop-details@system76.com', 'pop-suspend-button@system76.com', 'system76-power@system76.com', 'cpupower@mko-sl.de', 'appindicatorsupport@rgcjonas.gmail.com', 'sound-output-device-chooser@kgshank.net', 'apps-menu@gnome-shell-extensions.gcampax.github.com', 'donotdisturb@kylecorry31.github.io', 'launch-new-instance@gnome-shell-extensions.gcampax.github.com', 'drive-menu@gnome-shell-extensions.gcampax.github.com', 'user-theme@gnome-shell-extensions.gcampax.github.com', 'windowsNavigator@gnome-shell-extensions.gcampax.github.com', 'workspace-indicator@gnome-shell-extensions.gcampax.github.com', 'multi-monitors-add-on@spin83', 'gTile@vibou', 'places-menu@gnome-shell-extensions.gcampax.github.com']
+favorite-apps=['jetbrains-idea.desktop', 'firefox.desktop', 'org.gnome.Nautilus.desktop', 'gnome-system-monitor.desktop', 'io.elementary.appcenter.desktop', 'FoxitReader.desktop', 'bluej.desktop', 'org.gnome.tweaks.desktop', 'messengerport_messengerport.desktop']
+had-bluetooth-devices-setup=true
+
+[extensions/cpupower]
+profiles=[(50, 100, true, '50-100 Boost', '1577032050'), (0, 30, false, '0-30', '111163577'), (0, 50, false, '0-50', '4040085047'), (20, 100, false, '20-100', '2893002561')]
+show-freq-in-taskbar=true
+taskbar-freq-unit-ghz=true
+
+[extensions/gtile]
+animation=true
+grid-sizes='20x10,16x8,8x6,6x4,4x4'
+show-icon=true
+window-margin=2
+
+[extensions/kylecorry31-do-not-disturb]
+do-not-disturb=false
+show-icon=false
+
+[extensions/multi-monitors-add-on]
+available-indicators=['GTileStatusButton', 'places-menu', 'workspace-indicator', 'apps-menu', 'drive-menu']
+show-activities=false
+show-app-menu=true
+show-thumbnails-slider=false
+thumbnails-on-left-side=true
+
+[extensions/user-theme]
+name='Pop-dark'
+
+[overrides]
+workspaces-only-on-primary=false
