@@ -1,0 +1,4 @@
+[/]
+button-layout='appmenu:minimize,maximize,close'
+mouse-button-modifier='<Alt>'
+theme='Pop-slim-dark'
