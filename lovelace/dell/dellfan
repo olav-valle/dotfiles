@@ -1,0 +1,15 @@
+#!/usr/bin/bash
+
+# This script revokes fan control from the BIOS
+# by running ./dell-bios-fan-control 0
+# followed by restarting the i8kmon daemon
+
+sudo ~/bin/dell-bios-fan-control/dell-bios-fan-control 0
+
+sudo systemctl restart i8kmon.service
+
+i8kfan 0 0
+
+echo "fan speeds should now be:"
+
+i8kfan
