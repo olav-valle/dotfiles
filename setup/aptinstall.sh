@@ -23,9 +23,22 @@ install gparted
 install neovim
 install exfat-utils
 install openvpn
+install dconf-editor
+install cifs-utils #for mounting samba shares as drives
+install pavucontrol #something to do with bluetooth audio
+
+
 
 #utilities
 install vlc
+
+#A/V editing
+install audacity
+install jack2
+
+# install jackd2
+# Possibly a good idea to do this manually, for now?
+# Jackd2 presents an installer confirmation outside of apt
 
 # sensor monitoring
 install lm-sensors
