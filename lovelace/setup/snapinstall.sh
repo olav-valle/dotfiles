@@ -16,7 +16,7 @@ function snapInst {
  if [ $? -ne 0 ]; then
 # if existing install was not found, install 
 	echo "Snap is installing : ${1}..."
-	sudo snap install $1
+	sudo snap install $1 $2
  else
 	echo "Already installed through Snap: ${1}"
  fi
@@ -25,5 +25,5 @@ function snapInst {
 snapInst discord
 snapInst messengerport
 #snapInst caprine #uncomment if messengerport starts to suck
-snapInst intellij-idea-ultimate
-snapInst pycharm-professional
+snapInst intellij-idea-ultimate --classic
+snapInst pycharm-professional --classic

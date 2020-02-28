@@ -22,6 +22,7 @@ install samba
 install gparted
 install neovim
 install exfat-utils
+install i8kutils
 # install openvpn
 
 #utilities
@@ -34,6 +35,9 @@ install psensor
 
 #gnome stuff
 install gnome-tweaks
+
+#dev tools
+install gitkraken
 
 #python and pip
 install python3-venv
