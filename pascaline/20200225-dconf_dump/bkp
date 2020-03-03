@@ -1,0 +1,539 @@
+[blueman/general]
+last-adapter='hci1'
+latest-last=true
+window-properties=[960, 616, 804, 387]
+
+[blueman/plugins/recentconns]
+recent-connections='eNotj8tOwkAUhiuCaL2C91vCwoUbTBusltlRaARRSBSTLnQxdAacBIp/L+5M7KK+gL6Hj+PrOK2excn55//+MzPvua7yBOUNc6dOUVEUyuhLyH3kXDaMAvU+9IU3VjHvlKSpN4luEcsgdovUbNJqIp+gEGPhP8p8HgQoPv/RRpPYFrkwyaVBLIvULSwmWIqhOoWUnggaYFmyZaluG9f9u0qnU7FuHuxBvz9oYyXBaow1Jy9t4c48rEtWTZMRE7OqS32GjQSlGOWM8eiUYzN7SZtTFvAQW5kRRYJhW4ZPpNBk6bpmVtOhqqfNTJummZoxqg9r56MhdhLsxtjL0qGQa/evGj9f34+fuu4syDPGX4XLcdDLfjIVIZ/isJddPQ7E2KMTHHWViH7g+OwXLNZZ6Q=='
+
+[blueman/transfer]
+shared-path='/home/mort/Downloads'
+
+[gnome/Totem]
+active-plugins=['open-directory', 'vimeo', 'screenshot', 'autoload-subtitles', 'rotation', 'screensaver', 'variable-rate', 'save-file', 'recent', 'apple-trailers', 'movie-properties', 'media-player-keys', 'skipto']
+subtitle-encoding='UTF-8'
+
+[gnome/baobab/ui]
+active-chart='treemap'
+window-size=(1062, 964)
+window-state=87168
+
+[gnome/calculator]
+accuracy=9
+angle-units='degrees'
+base=10
+button-mode='programming'
+number-format='automatic'
+show-thousands=false
+show-zeroes=false
+source-currency=''
+source-units='degree'
+target-currency=''
+target-units='radian'
+window-position=(2752, 1084)
+word-size=64
+
+[gnome/calendar]
+active-view='month'
+window-maximized=true
+window-position=(0, 250)
+window-size=(2560, 1366)
+
+[gnome/control-center]
+last-panel='wifi'
+
+[gnome/desktop/a11y/applications]
+screen-reader-enabled=false
+
+[gnome/desktop/app-folders]
+folder-children=['Pop-Office', 'Pop-System', 'Pop-Utility', 'a1fb0a1f-6bb4-4d9d-ba16-57b58e48cb33', '392acd0b-b620-42c0-927f-757359402d87', 'dbcb5157-2876-40c0-9a10-c2572ee0ae6a', 'e22843e5-7f5f-4d96-ad75-9ed6b5659fe6', '80618895-7779-43e5-b769-c01934010389', '10378de2-437d-41da-8008-8cc18349e596']
+
+[gnome/desktop/app-folders/folders/10378de2-437d-41da-8008-8cc18349e596]
+apps=['terminator.desktop', 'org.gnome.Terminal.desktop']
+name='Terminals'
+translate=false
+
+[gnome/desktop/app-folders/folders/392acd0b-b620-42c0-927f-757359402d87]
+apps=['intellij-idea-ultimate_intellij-idea-ultimate.desktop', 'nvim.desktop', 'clion_clion.desktop', 'org.gnome.gedit.desktop', 'code.desktop', 'arduino-arduinoide.desktop', 'pycharm-professional_pycharm-professional.desktop', 'vim.desktop', 'gitkraken.desktop']
+name='dev'
+translate=false
+
+[gnome/desktop/app-folders/folders/80618895-7779-43e5-b769-c01934010389]
+apps=['psensor.desktop', 'htop.desktop', 'gnome-system-monitor.desktop', 'org.gnome.PowerStats.desktop']
+name='Monitoring'
+translate=false
+
+[gnome/desktop/app-folders/folders/Pop-Office]
+apps=['libreoffice-calc.desktop', 'libreoffice-draw.desktop', 'libreoffice-impress.desktop', 'libreoffice-math.desktop', 'libreoffice-startcenter.desktop', 'libreoffice-writer.desktop']
+name='Office.directory'
+translate=true
+
+[gnome/desktop/app-folders/folders/Pop-System]
+apps=['gnome-language-selector.desktop', 'im-config.desktop', 'nm-connection-editor.desktop', 'nvidia-settings.desktop', 'org.gnome.baobab.desktop', 'org.gnome.DiskUtility.desktop', 'org.gnome.seahorse.Application.desktop', 'software-properties-gnome.desktop', 'system76-driver.desktop', 'system76-firmware.desktop', 'gparted.desktop', 'blueman-manager.desktop', 'ca.desrt.dconf-editor.desktop', 'setup-mozc.desktop', 'gnome-session-properties.desktop', 'org.gnome.tweaks.desktop']
+name='System.directory'
+translate=true
+
+[gnome/desktop/app-folders/folders/Pop-Utility]
+apps=['com.github.donadigo.eddy.desktop', 'com.system76.Popsicle.desktop', 'eog.desktop', 'gucharmap.desktop', 'info.desktop', 'org.gnome.Evince.desktop', 'org.gnome.FileRoller.desktop', 'org.gnome.font-viewer.desktop', 'org.gnome.Screenshot.desktop', 'org.gnome.Totem.desktop', 'simple-scan.desktop', 'yelp.desktop', 'insync.desktop']
+name='X-GNOME-Utilities.directory'
+translate=true
+
+[gnome/desktop/app-folders/folders/a1fb0a1f-6bb4-4d9d-ba16-57b58e48cb33]
+apps=['net.lutris.epic-games-store-137.desktop', 'net.lutris.Lutris.desktop', 'wine-Programs-Epic Games Launcher.desktop', 'steam.desktop', 'gog_com-EXAPUNKS_1.desktop', 'gog_com-SHENZHEN_IO_1.desktop', 'winetricks.desktop', 'gog_com-TIS_100_1.desktop', 'ScourgeBringer.desktop', 'The Surge 2.desktop', 'jstest-gtk.desktop']
+name='Games'
+
+[gnome/desktop/app-folders/folders/dbcb5157-2876-40c0-9a10-c2572ee0ae6a]
+apps=['messengerport_messengerport.desktop', 'discord_discord.desktop', 'org.gnome.Geary.desktop', 'org.gnome.Contacts.desktop', 'slack.desktop']
+name='comms'
+translate=false
+
+[gnome/desktop/app-folders/folders/e22843e5-7f5f-4d96-ad75-9ed6b5659fe6]
+apps=['qjackctl.desktop', 'audacity.desktop', 'vlc.desktop', 'pavucontrol.desktop']
+name='Sound & Video'
+
+[gnome/desktop/background]
+color-shading-type='solid'
+picture-options='zoom'
+picture-uri='file:///usr/share/backgrounds/pop/jake-hills-36605.jpg'
+primary-color='#000000'
+secondary-color='#000000'
+
+[gnome/desktop/calendar]
+show-weekdate=true
+
+[gnome/desktop/input-sources]
+mru-sources=[('xkb', 'gb+extd'), ('xkb', 'no')]
+sources=[('xkb', 'gb+extd'), ('xkb', 'no')]
+xkb-options=['grp:switch']
+
+[gnome/desktop/interface]
+clock-format='24h'
+clock-show-weekday=true
+enable-animations=false
+enable-hot-corners=true
+gtk-im-module='gtk-im-context-simple'
+gtk-theme='Pop-dark'
+toolkit-accessibility=false
+
+[gnome/desktop/notifications]
+application-children=['io-elementary-appcenter', 'firefox', 'org-gnome-nautilus', 'org-gnome-gedit', 'net-lutris-lutris', 'steam', 'blueman-manager', 'gnome-shell-extension-prefs', 'org-gnome-baobab', 'com-github-donadigo-eddy', 'org-gnome-fileroller', 'discord-discord', 'audacity', 'insync', 'intellij-idea-ultimate-intellij-idea-ultimate', 'arduino-arduinoide', 'gnome-printers-panel', 'qjackctl', 'gnome-network-panel', 'deluge', 'messengerport-messengerport', 'gnome-power-panel', 'org-gnome-chromegnomeshell', 'wine-programs-epic-games-launcher', 'jstest-gtk', 'blueman-adapters', 'gnome-control-center', 'org-gnome-evolution-alarm-notify', 'slack', 'transmission-gtk', 'caprine-caprine', 'org-gnome-totem']
+
+[gnome/desktop/notifications/application/arduino-arduinoide]
+application-id='arduino-arduinoide.desktop'
+
+[gnome/desktop/notifications/application/audacity]
+application-id='audacity.desktop'
+
+[gnome/desktop/notifications/application/blueman-adapters]
+application-id='blueman-adapters.desktop'
+
+[gnome/desktop/notifications/application/blueman-manager]
+application-id='blueman-manager.desktop'
+
+[gnome/desktop/notifications/application/caprine-caprine]
+application-id='caprine_caprine.desktop'
+
+[gnome/desktop/notifications/application/com-github-donadigo-eddy]
+application-id='com.github.donadigo.eddy.desktop'
+
+[gnome/desktop/notifications/application/deluge]
+application-id='deluge.desktop'
+
+[gnome/desktop/notifications/application/discord-discord]
+application-id='discord_discord.desktop'
+
+[gnome/desktop/notifications/application/firefox]
+application-id='firefox.desktop'
+
+[gnome/desktop/notifications/application/gnome-control-center]
+application-id='gnome-control-center.desktop'
+
+[gnome/desktop/notifications/application/gnome-network-panel]
+application-id='gnome-network-panel.desktop'
+
+[gnome/desktop/notifications/application/gnome-power-panel]
+application-id='gnome-power-panel.desktop'
+
+[gnome/desktop/notifications/application/gnome-printers-panel]
+application-id='gnome-printers-panel.desktop'
+
+[gnome/desktop/notifications/application/gnome-shell-extension-prefs]
+application-id='gnome-shell-extension-prefs.desktop'
+
+[gnome/desktop/notifications/application/insync]
+application-id='insync.desktop'
+
+[gnome/desktop/notifications/application/intellij-idea-ultimate-intellij-idea-ultimate]
+application-id='intellij-idea-ultimate_intellij-idea-ultimate.desktop'
+
+[gnome/desktop/notifications/application/io-elementary-appcenter]
+application-id='io.elementary.appcenter.desktop'
+
+[gnome/desktop/notifications/application/jstest-gtk]
+application-id='jstest-gtk.desktop'
+
+[gnome/desktop/notifications/application/messengerport-messengerport]
+application-id='messengerport_messengerport.desktop'
+
+[gnome/desktop/notifications/application/net-lutris-lutris]
+application-id='net.lutris.Lutris.desktop'
+
+[gnome/desktop/notifications/application/org-gnome-baobab]
+application-id='org.gnome.baobab.desktop'
+
+[gnome/desktop/notifications/application/org-gnome-chromegnomeshell]
+application-id='org.gnome.ChromeGnomeShell.desktop'
+
+[gnome/desktop/notifications/application/org-gnome-evolution-alarm-notify]
+application-id='org.gnome.Evolution-alarm-notify.desktop'
+
+[gnome/desktop/notifications/application/org-gnome-fileroller]
+application-id='org.gnome.FileRoller.desktop'
+
+[gnome/desktop/notifications/application/org-gnome-gedit]
+application-id='org.gnome.gedit.desktop'
+
+[gnome/desktop/notifications/application/org-gnome-nautilus]
+application-id='org.gnome.Nautilus.desktop'
+
+[gnome/desktop/notifications/application/org-gnome-totem]
+application-id='org.gnome.Totem.desktop'
+
+[gnome/desktop/notifications/application/qjackctl]
+application-id='qjackctl.desktop'
+
+[gnome/desktop/notifications/application/slack]
+application-id='slack.desktop'
+
+[gnome/desktop/notifications/application/steam]
+application-id='steam.desktop'
+
+[gnome/desktop/notifications/application/transmission-gtk]
+application-id='transmission-gtk.desktop'
+
+[gnome/desktop/notifications/application/wine-programs-epic-games-launcher]
+application-id='wine-Programs-Epic Games Launcher.desktop'
+
+[gnome/desktop/peripherals/keyboard]
+numlock-state=true
+
+[gnome/desktop/peripherals/mouse]
+accel-profile='flat'
+speed=0.25
+
+[gnome/desktop/peripherals/touchpad]
+two-finger-scrolling-enabled=true
+
+[gnome/desktop/screensaver]
+color-shading-type='solid'
+picture-options='zoom'
+picture-uri='file:///usr/share/backgrounds/pop/jake-hills-36605.jpg'
+primary-color='#000000'
+secondary-color='#000000'
+
+[gnome/desktop/search-providers]
+sort-order=['org.gnome.Contacts.desktop', 'org.gnome.Documents.desktop', 'org.gnome.Nautilus.desktop']
+
+[gnome/desktop/session]
+idle-delay=uint32 0
+
+[gnome/desktop/wm/keybindings]
+close=['<Alt>F4']
+lower=['<Super>h']
+minimize=['<Super>Down']
+move-to-monitor-left=['<Super>Left']
+move-to-monitor-right=['<Super>Right']
+move-to-monitor-up=['<Primary><Super>Up']
+move-to-workspace-down=['<Primary><Alt><Super>Down']
+move-to-workspace-up=['<Primary><Alt><Super>Up']
+panel-main-menu=@as []
+switch-applications=@as []
+switch-applications-backward=@as []
+switch-group=['<Super>Tab']
+switch-group-backward=['<Shift><Super>Tab']
+switch-input-source=['<Alt><Super>space']
+switch-input-source-backward=['<Shift><Alt><Super>space']
+switch-to-workspace-down=['<Alt><Super>Down']
+switch-to-workspace-up=['<Alt><Super>Up']
+switch-windows=['<Alt>Tab']
+switch-windows-backward=['<Shift><Alt>Tab']
+toggle-fullscreen=['F11']
+toggle-maximized=['<Super>Up']
+
+[gnome/desktop/wm/preferences]
+button-layout='appmenu:minimize,maximize,close'
+
+[gnome/eog/view]
+background-color='rgb(0,0,0)'
+use-background-color=true
+
+[gnome/evince]
+document-directory=@ms nothing
+
+[gnome/evince/default]
+continuous=true
+dual-page=false
+dual-page-odd-left=false
+enable-spellchecking=true
+fullscreen=false
+inverted-colors=false
+show-sidebar=true
+sidebar-page='thumbnails'
+sidebar-size=132
+sizing-mode='automatic'
+window-ratio=(0.9673202614379085, 0.4116161616161616)
+
+[gnome/evolution-data-server]
+migrated=true
+network-monitor-gio-name=''
+
+[gnome/evolution-data-server/calendar]
+reminders-past=['2b5e3883b3d59787d1009f74c96c4b00ba1f3392\n933949860c8738db73d146453cd24550aea87952\n1582627500\n1582629300\n1582639200\nBEGIN:VEVENT\r\nDTSTART;TZID=Europe/Oslo:20200225T121500\r\nDTEND;TZID=Europe/Oslo:20200225T150000\r\nDTSTAMP:20200107T184618Z\r\nUID:194-IDATA2001-1-1-2_2020_VÅR_IDATA2001-9@innsida.ntnu.no\r\nCREATED:20200107T184110Z\r\nDESCRIPTION:Øving\\nProgrammering 2\\n\\nA. Styve\\nBIDATA\r\nLAST-MODIFIED:20200107T184618Z\r\nLOCATION:C220 Ankeret (Hovedbygget)\r\nSEQUENCE:0\r\nSTATUS:CONFIRMED\r\nSUMMARY:IDATA2001 Øving\r\nTRANSP:OPAQUE\r\nX-EVOLUTION-CALDAV-ETAG:63714105978\r\nBEGIN:VALARM\r\nACTION:DISPLAY\r\nDESCRIPTION:This is an event reminder\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:933949860c8738db73d146453cd24550aea87952\r\nEND:VALARM\r\nBEGIN:VALARM\r\nACTION:EMAIL\r\nDESCRIPTION:This is an event reminder\r\nSUMMARY:Alarm notification\r\nATTENDEE:mailto:mortbringsli@gmail.com\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:9b3976c631a1ef799b68052927cc258da2eb49b5\r\nEND:VALARM\r\nEND:VEVENT\r\n', '2b5e3883b3d59787d1009f74c96c4b00ba1f3392\n2d3f36e8b34c75bce6fc62604bb0d485cdb084d8\n1582613100\n1582614900\n1582621200\nBEGIN:VEVENT\r\nDTSTART;TZID=Europe/Oslo:20200225T081500\r\nDTEND;TZID=Europe/Oslo:20200225T100000\r\nDTSTAMP:20200107T184618Z\r\nUID:194-IDATA2001-1-1-1_2020_VÅR_IDATA2001-9@innsida.ntnu.no\r\nCREATED:20200107T184110Z\r\nDESCRIPTION:Forelesning\\nProgrammering 2\\n\\nA. Styve\\nBIDATA\r\nLAST-MODIFIED:20200107T184618Z\r\nLOCATION:Nørvasundet Ankeret (Hovedbygget)\r\nSEQUENCE:0\r\nSTATUS:CONFIRMED\r\nSUMMARY:IDATA2001 Forelesning\r\nTRANSP:OPAQUE\r\nX-EVOLUTION-CALDAV-ETAG:63714105978\r\nBEGIN:VALARM\r\nACTION:EMAIL\r\nDESCRIPTION:This is an event reminder\r\nSUMMARY:Alarm notification\r\nATTENDEE:mailto:mortbringsli@gmail.com\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:7dfc9756828653b7541aa5b1f3363733de0e0d6b\r\nEND:VALARM\r\nBEGIN:VALARM\r\nACTION:DISPLAY\r\nDESCRIPTION:This is an event reminder\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:2d3f36e8b34c75bce6fc62604bb0d485cdb084d8\r\nEND:VALARM\r\nEND:VEVENT\r\n', '2b5e3883b3d59787d1009f74c96c4b00ba1f3392\n303ac408ef1c56b51010778553d7d90947aa5fee\n1582548300\n1582550100\n1582556400\nBEGIN:VEVENT\r\nDTSTART;TZID=Europe/Oslo:20200224T141500\r\nDTEND;TZID=Europe/Oslo:20200224T160000\r\nDTSTAMP:20200107T184618Z\r\nUID:194-IDATA1002-1-1-1_2020_VÅR_IDATA1002-9@innsida.ntnu.no\r\nCREATED:20200107T184110Z\r\nDESCRIPTION:Forelesning\\nSystemutvikling\\n\\nK.I. Tomren\\nBIDATA\r\nLAST-MODIFIED:20200107T184618Z\r\nLOCATION:C220 Ankeret (Hovedbygget)\r\nSEQUENCE:0\r\nSTATUS:CONFIRMED\r\nSUMMARY:IDATA1002 Forelesning\r\nTRANSP:OPAQUE\r\nX-EVOLUTION-CALDAV-ETAG:63714105978\r\nBEGIN:VALARM\r\nACTION:EMAIL\r\nDESCRIPTION:This is an event reminder\r\nSUMMARY:Alarm notification\r\nATTENDEE:mailto:mortbringsli@gmail.com\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:ccab29ea9b36c33b6a99bab16bbb4b386d65d8bb\r\nEND:VALARM\r\nBEGIN:VALARM\r\nACTION:DISPLAY\r\nDESCRIPTION:This is an event reminder\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:303ac408ef1c56b51010778553d7d90947aa5fee\r\nEND:VALARM\r\nEND:VEVENT\r\n', '2b5e3883b3d59787d1009f74c96c4b00ba1f3392\n616d944bc35c12182d60b6b801f16dbe90b0b9bf\n1582281900\n1582283700\n1582290000\nBEGIN:VEVENT\r\nDTSTART;TZID=Europe/Oslo:20200221T121500\r\nDTEND;TZID=Europe/Oslo:20200221T140000\r\nDTSTAMP:20200107T184618Z\r\nUID:194-IMAA2021-1-1-1_2020_VÅR_IMAA2021-8@innsida.ntnu.no\r\nCREATED:20200107T184110Z\r\nDESCRIPTION:Forelesing/Øving\\nMatematiske metoder 2 for \r\n Dataingeniør\\n\\nS.B. Van Albada\\nBIDATA\r\nLAST-MODIFIED:20200107T184618Z\r\nLOCATION:C220 Ankeret (Hovedbygget)\r\nSEQUENCE:0\r\nSTATUS:CONFIRMED\r\nSUMMARY:IMAA2021 Forelesing/Øving\r\nTRANSP:OPAQUE\r\nX-EVOLUTION-CALDAV-ETAG:63714105978\r\nBEGIN:VALARM\r\nACTION:EMAIL\r\nDESCRIPTION:This is an event reminder\r\nSUMMARY:Alarm notification\r\nATTENDEE:mailto:mortbringsli@gmail.com\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:e6274b8dddd17b98da21aa8f2945ee81b2f884a2\r\nEND:VALARM\r\nBEGIN:VALARM\r\nACTION:DISPLAY\r\nDESCRIPTION:This is an event reminder\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:616d944bc35c12182d60b6b801f16dbe90b0b9bf\r\nEND:VALARM\r\nEND:VEVENT\r\n', '2b5e3883b3d59787d1009f74c96c4b00ba1f3392\n4be1344162287a9af5505a42f7f49d9cd3d7c53a\n1582195500\n1582197300\n1582207200\nBEGIN:VEVENT\r\nDTSTART;TZID=Europe/Oslo:20200220T121500\r\nDTEND;TZID=Europe/Oslo:20200220T150000\r\nDTSTAMP:20200107T184618Z\r\nUID:194-IDATA2001-1-1-4_2020_VÅR_IDATA2001-8@innsida.ntnu.no\r\nCREATED:20200107T184110Z\r\nDESCRIPTION:Øving\\nProgrammering 2\\n\\nA. Styve\\nBIDATA\r\nLAST-MODIFIED:20200107T184618Z\r\nLOCATION:C220 Ankeret (Hovedbygget)\r\nSEQUENCE:0\r\nSTATUS:CONFIRMED\r\nSUMMARY:IDATA2001 Øving\r\nTRANSP:OPAQUE\r\nX-EVOLUTION-CALDAV-ETAG:63714105978\r\nBEGIN:VALARM\r\nACTION:DISPLAY\r\nDESCRIPTION:This is an event reminder\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:4be1344162287a9af5505a42f7f49d9cd3d7c53a\r\nEND:VALARM\r\nBEGIN:VALARM\r\nACTION:EMAIL\r\nDESCRIPTION:This is an event reminder\r\nSUMMARY:Alarm notification\r\nATTENDEE:mailto:mortbringsli@gmail.com\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:ed113c83b9d7ab115fa723eeb4c866cbcd727b59\r\nEND:VALARM\r\nEND:VEVENT\r\n', '2b5e3883b3d59787d1009f74c96c4b00ba1f3392\ne72cae79dca4a5665150f075739b0eba422c320e\n1582188300\n1582190100\n1582196400\nBEGIN:VEVENT\r\nDTSTART;TZID=Europe/Oslo:20200220T101500\r\nDTEND;TZID=Europe/Oslo:20200220T120000\r\nDTSTAMP:20200107T184618Z\r\nUID:194-IDATA2001-1-1-3_2020_VÅR_IDATA2001-8@innsida.ntnu.no\r\nCREATED:20200107T184110Z\r\nDESCRIPTION:Forelesning\\nProgrammering 2\\n\\nA. Styve\\nBIDATA\r\nLAST-MODIFIED:20200107T184618Z\r\nLOCATION:Kaupangen Ankeret (Hovedbygget)\r\nSEQUENCE:0\r\nSTATUS:CONFIRMED\r\nSUMMARY:IDATA2001 Forelesning\r\nTRANSP:OPAQUE\r\nX-EVOLUTION-CALDAV-ETAG:63714105978\r\nBEGIN:VALARM\r\nACTION:EMAIL\r\nDESCRIPTION:This is an event reminder\r\nSUMMARY:Alarm notification\r\nATTENDEE:mailto:mortbringsli@gmail.com\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:d3cecc9632846fb686878537e2129834a5f32ba6\r\nEND:VALARM\r\nBEGIN:VALARM\r\nACTION:DISPLAY\r\nDESCRIPTION:This is an event reminder\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:e72cae79dca4a5665150f075739b0eba422c320e\r\nEND:VALARM\r\nEND:VEVENT\r\n', '2b5e3883b3d59787d1009f74c96c4b00ba1f3392\nf2c3ec79189bdd0d4f89651f2fefdb3605dc2f20\n1582181100\n1582182900\n1582189200\nBEGIN:VEVENT\r\nDTSTART;TZID=Europe/Oslo:20200220T081500\r\nDTEND;TZID=Europe/Oslo:20200220T100000\r\nDTSTAMP:20200107T184618Z\r\nUID:194-IMAA2021-1-1-3_2020_VÅR_IMAA2021-8@innsida.ntnu.no\r\nCREATED:20200107T184110Z\r\nDESCRIPTION:Forelesing/Øving\\nMatematiske metoder 2 for \r\n Dataingeniør\\n\\nS.B. Van Albada\\nBIDATA\r\nLAST-MODIFIED:20200107T184618Z\r\nLOCATION:C220 Ankeret (Hovedbygget)\r\nSEQUENCE:0\r\nSTATUS:CONFIRMED\r\nSUMMARY:IMAA2021 Forelesing/Øving\r\nTRANSP:OPAQUE\r\nX-EVOLUTION-CALDAV-ETAG:63714105978\r\nBEGIN:VALARM\r\nACTION:EMAIL\r\nDESCRIPTION:This is an event reminder\r\nSUMMARY:Alarm notification\r\nATTENDEE:mailto:mortbringsli@gmail.com\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:510568c0e4d687d10e16deef8194eaf332aefb36\r\nEND:VALARM\r\nBEGIN:VALARM\r\nACTION:DISPLAY\r\nDESCRIPTION:This is an event reminder\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:f2c3ec79189bdd0d4f89651f2fefdb3605dc2f20\r\nEND:VALARM\r\nEND:VEVENT\r\n', '2b5e3883b3d59787d1009f74c96c4b00ba1f3392\nb8d02c8377626fa72824c90e8635078538205655\n1582109100\n1582110900\n1582124400\nBEGIN:VEVENT\r\nDTSTART;TZID=Europe/Oslo:20200219T121500\r\nDTEND;TZID=Europe/Oslo:20200219T160000\r\nDTSTAMP:20200107T184618Z\r\nUID:194-IDATA1002-1-1-2_2020_VÅR_IDATA1002-8@innsida.ntnu.no\r\nCREATED:20200107T184110Z\r\nDESCRIPTION:Forelesning\\nSystemutvikling\\n\\nK.I. Tomren\\nBIDATA\r\nLAST-MODIFIED:20200107T184618Z\r\nLOCATION:C220 Ankeret (Hovedbygget)\r\nSEQUENCE:0\r\nSTATUS:CONFIRMED\r\nSUMMARY:IDATA1002 Forelesning\r\nTRANSP:OPAQUE\r\nX-EVOLUTION-CALDAV-ETAG:63714105978\r\nBEGIN:VALARM\r\nACTION:EMAIL\r\nDESCRIPTION:This is an event reminder\r\nSUMMARY:Alarm notification\r\nATTENDEE:mailto:mortbringsli@gmail.com\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:f142ebb75a1e0d7289b5f95fbe037f0580a406ae\r\nEND:VALARM\r\nBEGIN:VALARM\r\nACTION:DISPLAY\r\nDESCRIPTION:This is an event reminder\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:b8d02c8377626fa72824c90e8635078538205655\r\nEND:VALARM\r\nEND:VEVENT\r\n', '2b5e3883b3d59787d1009f74c96c4b00ba1f3392\n587972d88acbdf2ca78b230de99cc5563e851a70\n1582094700\n1582096500\n1582110000\nBEGIN:VEVENT\r\nDTSTART;TZID=Europe/Oslo:20200219T081500\r\nDTEND;TZID=Europe/Oslo:20200219T120000\r\nDTSTAMP:20200107T184618Z\r\nUID:194-IMAA2021-1-1-2_2020_VÅR_IMAA2021-8@innsida.ntnu.no\r\nCREATED:20200107T184110Z\r\nDESCRIPTION:Forelesing/Øving\\nMatematiske metoder 2 for \r\n Dataingeniør\\n\\nS.B. Van Albada\\nBIDATA\r\nLAST-MODIFIED:20200107T184618Z\r\nLOCATION:C220 Ankeret (Hovedbygget)\r\nSEQUENCE:0\r\nSTATUS:CONFIRMED\r\nSUMMARY:IMAA2021 Forelesing/Øving\r\nTRANSP:OPAQUE\r\nX-EVOLUTION-CALDAV-ETAG:63714105978\r\nBEGIN:VALARM\r\nACTION:DISPLAY\r\nDESCRIPTION:This is an event reminder\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:587972d88acbdf2ca78b230de99cc5563e851a70\r\nEND:VALARM\r\nBEGIN:VALARM\r\nACTION:EMAIL\r\nDESCRIPTION:This is an event reminder\r\nSUMMARY:Alarm notification\r\nATTENDEE:mailto:mortbringsli@gmail.com\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:d4fa96593801bbb48427ceaf775fcf307da5fb7e\r\nEND:VALARM\r\nEND:VEVENT\r\n', '2b5e3883b3d59787d1009f74c96c4b00ba1f3392\n5b7cc2cff9f44dd44f3caed154374236519cd5cb\n1582022700\n1582024500\n1582034400\nBEGIN:VEVENT\r\nDTSTART;TZID=Europe/Oslo:20200218T121500\r\nDTEND;TZID=Europe/Oslo:20200218T150000\r\nDTSTAMP:20200107T184618Z\r\nUID:194-IDATA2001-1-1-2_2020_VÅR_IDATA2001-8@innsida.ntnu.no\r\nCREATED:20200107T184110Z\r\nDESCRIPTION:Øving\\nProgrammering 2\\n\\nA. Styve\\nBIDATA\r\nLAST-MODIFIED:20200107T184618Z\r\nLOCATION:C220 Ankeret (Hovedbygget)\r\nSEQUENCE:0\r\nSTATUS:CONFIRMED\r\nSUMMARY:IDATA2001 Øving\r\nTRANSP:OPAQUE\r\nX-EVOLUTION-CALDAV-ETAG:63714105978\r\nBEGIN:VALARM\r\nACTION:DISPLAY\r\nDESCRIPTION:This is an event reminder\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:5b7cc2cff9f44dd44f3caed154374236519cd5cb\r\nEND:VALARM\r\nBEGIN:VALARM\r\nACTION:EMAIL\r\nDESCRIPTION:This is an event reminder\r\nSUMMARY:Alarm notification\r\nATTENDEE:mailto:mortbringsli@gmail.com\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:a7ddd5844569ad6c8b251a5ded0b381b6e48576e\r\nEND:VALARM\r\nEND:VEVENT\r\n', '2b5e3883b3d59787d1009f74c96c4b00ba1f3392\nddc91512961ce8518545512d7dcfa4c1c12b18fa\n1582008300\n1582010100\n1582016400\nBEGIN:VEVENT\r\nDTSTART;TZID=Europe/Oslo:20200218T081500\r\nDTEND;TZID=Europe/Oslo:20200218T100000\r\nDTSTAMP:20200107T184618Z\r\nUID:194-IDATA2001-1-1-1_2020_VÅR_IDATA2001-8@innsida.ntnu.no\r\nCREATED:20200107T184110Z\r\nDESCRIPTION:Forelesning\\nProgrammering 2\\n\\nA. Styve\\nBIDATA\r\nLAST-MODIFIED:20200107T184618Z\r\nLOCATION:Nørvasundet Ankeret (Hovedbygget)\r\nSEQUENCE:0\r\nSTATUS:CONFIRMED\r\nSUMMARY:IDATA2001 Forelesning\r\nTRANSP:OPAQUE\r\nX-EVOLUTION-CALDAV-ETAG:63714105978\r\nBEGIN:VALARM\r\nACTION:EMAIL\r\nDESCRIPTION:This is an event reminder\r\nSUMMARY:Alarm notification\r\nATTENDEE:mailto:mortbringsli@gmail.com\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:3a26fcd65399f413869dc3ac814ad9a055d6becb\r\nEND:VALARM\r\nBEGIN:VALARM\r\nACTION:DISPLAY\r\nDESCRIPTION:This is an event reminder\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:ddc91512961ce8518545512d7dcfa4c1c12b18fa\r\nEND:VALARM\r\nEND:VEVENT\r\n', '2b5e3883b3d59787d1009f74c96c4b00ba1f3392\n524975b1ed8c846defbdfcb4bba4b5aecab83e7e\n1581943500\n1581945300\n1581951600\nBEGIN:VEVENT\r\nDTSTART;TZID=Europe/Oslo:20200217T141500\r\nDTEND;TZID=Europe/Oslo:20200217T160000\r\nDTSTAMP:20200107T184618Z\r\nUID:194-IDATA1002-1-1-1_2020_VÅR_IDATA1002-8@innsida.ntnu.no\r\nCREATED:20200107T184110Z\r\nDESCRIPTION:Forelesning\\nSystemutvikling\\n\\nK.I. Tomren\\nBIDATA\r\nLAST-MODIFIED:20200107T184618Z\r\nLOCATION:C220 Ankeret (Hovedbygget)\r\nSEQUENCE:0\r\nSTATUS:CONFIRMED\r\nSUMMARY:IDATA1002 Forelesning\r\nTRANSP:OPAQUE\r\nX-EVOLUTION-CALDAV-ETAG:63714105978\r\nBEGIN:VALARM\r\nACTION:EMAIL\r\nDESCRIPTION:This is an event reminder\r\nSUMMARY:Alarm notification\r\nATTENDEE:mailto:mortbringsli@gmail.com\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:d592f9d7158c807ed9210bae852e645290ecf9a9\r\nEND:VALARM\r\nBEGIN:VALARM\r\nACTION:DISPLAY\r\nDESCRIPTION:This is an event reminder\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:524975b1ed8c846defbdfcb4bba4b5aecab83e7e\r\nEND:VALARM\r\nEND:VEVENT\r\n', '2b5e3883b3d59787d1009f74c96c4b00ba1f3392\n8b5d4542d74ac45c83ffbe6fdde02de2449df964\n1581677100\n1581678900\n1581685200\nBEGIN:VEVENT\r\nDTSTART;TZID=Europe/Oslo:20200214T121500\r\nDTEND;TZID=Europe/Oslo:20200214T140000\r\nDTSTAMP:20200107T184618Z\r\nUID:194-IMAA2021-1-1-1_2020_VÅR_IMAA2021-7@innsida.ntnu.no\r\nCREATED:20200107T184110Z\r\nDESCRIPTION:Forelesing/Øving\\nMatematiske metoder 2 for \r\n Dataingeniør\\n\\nS.B. Van Albada\\nBIDATA\r\nLAST-MODIFIED:20200107T184618Z\r\nLOCATION:C220 Ankeret (Hovedbygget)\r\nSEQUENCE:0\r\nSTATUS:CONFIRMED\r\nSUMMARY:IMAA2021 Forelesing/Øving\r\nTRANSP:OPAQUE\r\nX-EVOLUTION-CALDAV-ETAG:63714105978\r\nBEGIN:VALARM\r\nACTION:EMAIL\r\nDESCRIPTION:This is an event reminder\r\nSUMMARY:Alarm notification\r\nATTENDEE:mailto:mortbringsli@gmail.com\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:75b21d70ef0caf04f4094ce820a4e0dc7c3b47ed\r\nEND:VALARM\r\nBEGIN:VALARM\r\nACTION:DISPLAY\r\nDESCRIPTION:This is an event reminder\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:8b5d4542d74ac45c83ffbe6fdde02de2449df964\r\nEND:VALARM\r\nEND:VEVENT\r\n', '2b5e3883b3d59787d1009f74c96c4b00ba1f3392\nd3d6da27b55f518f873625051e9a1e6066fb5be2\n1581590700\n1581592500\n1581602400\nBEGIN:VEVENT\r\nDTSTART;TZID=Europe/Oslo:20200213T121500\r\nDTEND;TZID=Europe/Oslo:20200213T150000\r\nDTSTAMP:20200107T184618Z\r\nUID:194-IDATA2001-1-1-4_2020_VÅR_IDATA2001-7@innsida.ntnu.no\r\nCREATED:20200107T184110Z\r\nDESCRIPTION:Øving\\nProgrammering 2\\n\\nA. Styve\\nBIDATA\r\nLAST-MODIFIED:20200107T184618Z\r\nLOCATION:C220 Ankeret (Hovedbygget)\r\nSEQUENCE:0\r\nSTATUS:CONFIRMED\r\nSUMMARY:IDATA2001 Øving\r\nTRANSP:OPAQUE\r\nX-EVOLUTION-CALDAV-ETAG:63714105978\r\nBEGIN:VALARM\r\nACTION:DISPLAY\r\nDESCRIPTION:This is an event reminder\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:d3d6da27b55f518f873625051e9a1e6066fb5be2\r\nEND:VALARM\r\nBEGIN:VALARM\r\nACTION:EMAIL\r\nDESCRIPTION:This is an event reminder\r\nSUMMARY:Alarm notification\r\nATTENDEE:mailto:mortbringsli@gmail.com\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:81a419a14102cc959b79e8c8e9ac66df917f8a8b\r\nEND:VALARM\r\nEND:VEVENT\r\n', '2b5e3883b3d59787d1009f74c96c4b00ba1f3392\n07ef8d3552f95693feeeeab725cd8115ebd05417\n1581583500\n1581585300\n1581591600\nBEGIN:VEVENT\r\nDTSTART;TZID=Europe/Oslo:20200213T101500\r\nDTEND;TZID=Europe/Oslo:20200213T120000\r\nDTSTAMP:20200107T184618Z\r\nUID:194-IDATA2001-1-1-3_2020_VÅR_IDATA2001-7@innsida.ntnu.no\r\nCREATED:20200107T184110Z\r\nDESCRIPTION:Forelesning\\nProgrammering 2\\n\\nA. Styve\\nBIDATA\r\nLAST-MODIFIED:20200107T184618Z\r\nLOCATION:Kaupangen Ankeret (Hovedbygget)\r\nSEQUENCE:0\r\nSTATUS:CONFIRMED\r\nSUMMARY:IDATA2001 Forelesning\r\nTRANSP:OPAQUE\r\nX-EVOLUTION-CALDAV-ETAG:63714105978\r\nBEGIN:VALARM\r\nACTION:EMAIL\r\nDESCRIPTION:This is an event reminder\r\nSUMMARY:Alarm notification\r\nATTENDEE:mailto:mortbringsli@gmail.com\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:61ef7063b8ab00f057b3a7ce1af8febe966f7308\r\nEND:VALARM\r\nBEGIN:VALARM\r\nACTION:DISPLAY\r\nDESCRIPTION:This is an event reminder\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:07ef8d3552f95693feeeeab725cd8115ebd05417\r\nEND:VALARM\r\nEND:VEVENT\r\n', '2b5e3883b3d59787d1009f74c96c4b00ba1f3392\n0a7254875aef439727679f62797647bf3b653684\n1581576300\n1581578100\n1581584400\nBEGIN:VEVENT\r\nDTSTART;TZID=Europe/Oslo:20200213T081500\r\nDTEND;TZID=Europe/Oslo:20200213T100000\r\nDTSTAMP:20200107T184618Z\r\nUID:194-IMAA2021-1-1-3_2020_VÅR_IMAA2021-7@innsida.ntnu.no\r\nCREATED:20200107T184110Z\r\nDESCRIPTION:Forelesing/Øving\\nMatematiske metoder 2 for \r\n Dataingeniør\\n\\nS.B. Van Albada\\nBIDATA\r\nLAST-MODIFIED:20200107T184618Z\r\nLOCATION:C220 Ankeret (Hovedbygget)\r\nSEQUENCE:0\r\nSTATUS:CONFIRMED\r\nSUMMARY:IMAA2021 Forelesing/Øving\r\nTRANSP:OPAQUE\r\nX-EVOLUTION-CALDAV-ETAG:63714105978\r\nBEGIN:VALARM\r\nACTION:EMAIL\r\nDESCRIPTION:This is an event reminder\r\nSUMMARY:Alarm notification\r\nATTENDEE:mailto:mortbringsli@gmail.com\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:12f1fcc75c4ecf707ea6dd0528ca4bd0820d930e\r\nEND:VALARM\r\nBEGIN:VALARM\r\nACTION:DISPLAY\r\nDESCRIPTION:This is an event reminder\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:0a7254875aef439727679f62797647bf3b653684\r\nEND:VALARM\r\nEND:VEVENT\r\n', '2b5e3883b3d59787d1009f74c96c4b00ba1f3392\n9f6aa3746b1cc149ac590356de0172d013a70e16\n1581504300\n1581506100\n1581519600\nBEGIN:VEVENT\r\nDTSTART;TZID=Europe/Oslo:20200212T121500\r\nDTEND;TZID=Europe/Oslo:20200212T160000\r\nDTSTAMP:20200107T184618Z\r\nUID:194-IDATA1002-1-1-2_2020_VÅR_IDATA1002-7@innsida.ntnu.no\r\nCREATED:20200107T184110Z\r\nDESCRIPTION:Forelesning\\nSystemutvikling\\n\\nK.I. Tomren\\nBIDATA\r\nLAST-MODIFIED:20200107T184618Z\r\nLOCATION:C220 Ankeret (Hovedbygget)\r\nSEQUENCE:0\r\nSTATUS:CONFIRMED\r\nSUMMARY:IDATA1002 Forelesning\r\nTRANSP:OPAQUE\r\nX-EVOLUTION-CALDAV-ETAG:63714105978\r\nBEGIN:VALARM\r\nACTION:DISPLAY\r\nDESCRIPTION:This is an event reminder\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:9f6aa3746b1cc149ac590356de0172d013a70e16\r\nEND:VALARM\r\nBEGIN:VALARM\r\nACTION:EMAIL\r\nDESCRIPTION:This is an event reminder\r\nSUMMARY:Alarm notification\r\nATTENDEE:mailto:mortbringsli@gmail.com\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:97c2d7174e076cd635fb9d3c94223b011622b6f9\r\nEND:VALARM\r\nEND:VEVENT\r\n', '2b5e3883b3d59787d1009f74c96c4b00ba1f3392\n5911d6de165bb82e3d84afd5b58479c50bd52bcf\n1581489900\n1581491700\n1581505200\nBEGIN:VEVENT\r\nDTSTART;TZID=Europe/Oslo:20200212T081500\r\nDTEND;TZID=Europe/Oslo:20200212T120000\r\nDTSTAMP:20200107T184618Z\r\nUID:194-IMAA2021-1-1-2_2020_VÅR_IMAA2021-7@innsida.ntnu.no\r\nCREATED:20200107T184110Z\r\nDESCRIPTION:Forelesing/Øving\\nMatematiske metoder 2 for \r\n Dataingeniør\\n\\nS.B. Van Albada\\nBIDATA\r\nLAST-MODIFIED:20200107T184618Z\r\nLOCATION:C220 Ankeret (Hovedbygget)\r\nSEQUENCE:0\r\nSTATUS:CONFIRMED\r\nSUMMARY:IMAA2021 Forelesing/Øving\r\nTRANSP:OPAQUE\r\nX-EVOLUTION-CALDAV-ETAG:63714105978\r\nBEGIN:VALARM\r\nACTION:EMAIL\r\nDESCRIPTION:This is an event reminder\r\nSUMMARY:Alarm notification\r\nATTENDEE:mailto:mortbringsli@gmail.com\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:eb141022c3aadf78699f814baea4bc59513d30b6\r\nEND:VALARM\r\nBEGIN:VALARM\r\nACTION:DISPLAY\r\nDESCRIPTION:This is an event reminder\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:5911d6de165bb82e3d84afd5b58479c50bd52bcf\r\nEND:VALARM\r\nEND:VEVENT\r\n', '2b5e3883b3d59787d1009f74c96c4b00ba1f3392\n102cb0a73d26f2b45a45ae4d718286e203e1c2ae\n1581417900\n1581419700\n1581429600\nBEGIN:VEVENT\r\nDTSTART;TZID=Europe/Oslo:20200211T121500\r\nDTEND;TZID=Europe/Oslo:20200211T150000\r\nDTSTAMP:20200107T184618Z\r\nUID:194-IDATA2001-1-1-2_2020_VÅR_IDATA2001-7@innsida.ntnu.no\r\nCREATED:20200107T184110Z\r\nDESCRIPTION:Øving\\nProgrammering 2\\n\\nA. Styve\\nBIDATA\r\nLAST-MODIFIED:20200107T184618Z\r\nLOCATION:C220 Ankeret (Hovedbygget)\r\nSEQUENCE:0\r\nSTATUS:CONFIRMED\r\nSUMMARY:IDATA2001 Øving\r\nTRANSP:OPAQUE\r\nX-EVOLUTION-CALDAV-ETAG:63714105978\r\nBEGIN:VALARM\r\nACTION:DISPLAY\r\nDESCRIPTION:This is an event reminder\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:102cb0a73d26f2b45a45ae4d718286e203e1c2ae\r\nEND:VALARM\r\nBEGIN:VALARM\r\nACTION:EMAIL\r\nDESCRIPTION:This is an event reminder\r\nSUMMARY:Alarm notification\r\nATTENDEE:mailto:mortbringsli@gmail.com\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:1ed7275f5413c1521c628e5725d721b56cb67b0f\r\nEND:VALARM\r\nEND:VEVENT\r\n', '2b5e3883b3d59787d1009f74c96c4b00ba1f3392\n092a26c26287638a62c6061e5adc17be9f0b6a80\n1581403500\n1581405300\n1581411600\nBEGIN:VEVENT\r\nDTSTART;TZID=Europe/Oslo:20200211T081500\r\nDTEND;TZID=Europe/Oslo:20200211T100000\r\nDTSTAMP:20200107T184618Z\r\nUID:194-IDATA2001-1-1-1_2020_VÅR_IDATA2001-7@innsida.ntnu.no\r\nCREATED:20200107T184110Z\r\nDESCRIPTION:Forelesning\\nProgrammering 2\\n\\nA. Styve\\nBIDATA\r\nLAST-MODIFIED:20200107T184618Z\r\nLOCATION:Nørvasundet Ankeret (Hovedbygget)\r\nSEQUENCE:0\r\nSTATUS:CONFIRMED\r\nSUMMARY:IDATA2001 Forelesning\r\nTRANSP:OPAQUE\r\nX-EVOLUTION-CALDAV-ETAG:63714105978\r\nBEGIN:VALARM\r\nACTION:DISPLAY\r\nDESCRIPTION:This is an event reminder\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:092a26c26287638a62c6061e5adc17be9f0b6a80\r\nEND:VALARM\r\nBEGIN:VALARM\r\nACTION:EMAIL\r\nDESCRIPTION:This is an event reminder\r\nSUMMARY:Alarm notification\r\nATTENDEE:mailto:mortbringsli@gmail.com\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:bbfcf6a023cd3a1274a9103c707f929ab15cb9f1\r\nEND:VALARM\r\nEND:VEVENT\r\n', '2b5e3883b3d59787d1009f74c96c4b00ba1f3392\n7b04cf032414191685aa4c3e0ad51b40f4663c80\n1581338700\n1581340500\n1581346800\nBEGIN:VEVENT\r\nDTSTART;TZID=Europe/Oslo:20200210T141500\r\nDTEND;TZID=Europe/Oslo:20200210T160000\r\nDTSTAMP:20200107T184618Z\r\nUID:194-IDATA1002-1-1-1_2020_VÅR_IDATA1002-7@innsida.ntnu.no\r\nCREATED:20200107T184110Z\r\nDESCRIPTION:Forelesning\\nSystemutvikling\\n\\nK.I. Tomren\\nBIDATA\r\nLAST-MODIFIED:20200107T184618Z\r\nLOCATION:C220 Ankeret (Hovedbygget)\r\nSEQUENCE:0\r\nSTATUS:CONFIRMED\r\nSUMMARY:IDATA1002 Forelesning\r\nTRANSP:OPAQUE\r\nX-EVOLUTION-CALDAV-ETAG:63714105978\r\nBEGIN:VALARM\r\nACTION:DISPLAY\r\nDESCRIPTION:This is an event reminder\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:7b04cf032414191685aa4c3e0ad51b40f4663c80\r\nEND:VALARM\r\nBEGIN:VALARM\r\nACTION:EMAIL\r\nDESCRIPTION:This is an event reminder\r\nSUMMARY:Alarm notification\r\nATTENDEE:mailto:mortbringsli@gmail.com\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:d71283517f95100267a8dca618f22547a06a0c4d\r\nEND:VALARM\r\nEND:VEVENT\r\n', '2b5e3883b3d59787d1009f74c96c4b00ba1f3392\n27c318f140510232941040a7e0293f32dcb3eaf8\n1581078600\n1581080400\n1581082200\nBEGIN:VEVENT\r\nDTSTART;TZID=Europe/Oslo:20200207T140000\r\nDTEND;TZID=Europe/Oslo:20200207T143000\r\nDTSTAMP:20200129T141545Z\r\nUID:\r\n 69h3ephi75j62b9o6oojeb9k74rmab9p65h64b9n75i36c9m74sj4e3474@google.com\r\nCREATED:20200129T141545Z\r\nX-LIC-ERROR;X-LIC-ERRORTYPE=VALUE-PARSE-ERROR:No value for DESCRIPTION \r\n property. Removing entire property:\r\nLAST-MODIFIED:20200129T141545Z\r\nX-LIC-ERROR;X-LIC-ERRORTYPE=VALUE-PARSE-ERROR:No value for LOCATION \r\n property. Removing entire property:\r\nSEQUENCE:0\r\nSTATUS:CONFIRMED\r\nSUMMARY:Hartelust\r\nTRANSP:OPAQUE\r\nX-EVOLUTION-CALDAV-ETAG:63715990545\r\nBEGIN:VALARM\r\nACTION:DISPLAY\r\nDESCRIPTION:This is an event reminder\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:27c318f140510232941040a7e0293f32dcb3eaf8\r\nEND:VALARM\r\nBEGIN:VALARM\r\nACTION:EMAIL\r\nDESCRIPTION:This is an event reminder\r\nSUMMARY:Alarm notification\r\nATTENDEE:mailto:mortbringsli@gmail.com\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:1e457e99fa3b7638015bf35d19e76d007b625633\r\nEND:VALARM\r\nEND:VEVENT\r\n', '2b5e3883b3d59787d1009f74c96c4b00ba1f3392\n9726d22576104d83a2a8b6b5acd66a99a12c036a\n1581072300\n1581074100\n1581080400\nBEGIN:VEVENT\r\nDTSTART;TZID=Europe/Oslo:20200207T121500\r\nDTEND;TZID=Europe/Oslo:20200207T140000\r\nDTSTAMP:20200107T184618Z\r\nUID:194-IMAA2021-1-1-1_2020_VÅR_IMAA2021-6@innsida.ntnu.no\r\nCREATED:20200107T184110Z\r\nDESCRIPTION:Forelesing/Øving\\nMatematiske metoder 2 for \r\n Dataingeniør\\n\\nS.B. Van Albada\\nBIDATA\r\nLAST-MODIFIED:20200107T184618Z\r\nLOCATION:C220 Ankeret (Hovedbygget)\r\nSEQUENCE:0\r\nSTATUS:CONFIRMED\r\nSUMMARY:IMAA2021 Forelesing/Øving\r\nTRANSP:OPAQUE\r\nX-EVOLUTION-CALDAV-ETAG:63714105978\r\nBEGIN:VALARM\r\nACTION:DISPLAY\r\nDESCRIPTION:This is an event reminder\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:9726d22576104d83a2a8b6b5acd66a99a12c036a\r\nEND:VALARM\r\nBEGIN:VALARM\r\nACTION:EMAIL\r\nDESCRIPTION:This is an event reminder\r\nSUMMARY:Alarm notification\r\nATTENDEE:mailto:mortbringsli@gmail.com\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:f6922c330621cf44bf8df0d9a9aad11a9c3cc685\r\nEND:VALARM\r\nEND:VEVENT\r\n', '2b5e3883b3d59787d1009f74c96c4b00ba1f3392\n7c657f6dc99e66421c5903076fdf748dfd24c212\n1580985900\n1580987700\n1580997600\nBEGIN:VEVENT\r\nDTSTART;TZID=Europe/Oslo:20200206T121500\r\nDTEND;TZID=Europe/Oslo:20200206T150000\r\nDTSTAMP:20200107T184618Z\r\nUID:194-IDATA2001-1-1-4_2020_VÅR_IDATA2001-6@innsida.ntnu.no\r\nCREATED:20200107T184110Z\r\nDESCRIPTION:Øving\\nProgrammering 2\\n\\nA. Styve\\nBIDATA\r\nLAST-MODIFIED:20200107T184618Z\r\nLOCATION:C220 Ankeret (Hovedbygget)\r\nSEQUENCE:0\r\nSTATUS:CONFIRMED\r\nSUMMARY:IDATA2001 Øving\r\nTRANSP:OPAQUE\r\nX-EVOLUTION-CALDAV-ETAG:63714105978\r\nBEGIN:VALARM\r\nACTION:DISPLAY\r\nDESCRIPTION:This is an event reminder\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:7c657f6dc99e66421c5903076fdf748dfd24c212\r\nEND:VALARM\r\nBEGIN:VALARM\r\nACTION:EMAIL\r\nDESCRIPTION:This is an event reminder\r\nSUMMARY:Alarm notification\r\nATTENDEE:mailto:mortbringsli@gmail.com\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:8e65c26f72673783ca9fccd640cf5de37bf923c0\r\nEND:VALARM\r\nEND:VEVENT\r\n', '2b5e3883b3d59787d1009f74c96c4b00ba1f3392\n7fa8cbb0817a47992a8981d6653aad121f5f1d75\n1580978700\n1580980500\n1580986800\nBEGIN:VEVENT\r\nDTSTART;TZID=Europe/Oslo:20200206T101500\r\nDTEND;TZID=Europe/Oslo:20200206T120000\r\nDTSTAMP:20200107T184618Z\r\nUID:194-IDATA2001-1-1-3_2020_VÅR_IDATA2001-6@innsida.ntnu.no\r\nCREATED:20200107T184110Z\r\nDESCRIPTION:Forelesning\\nProgrammering 2\\n\\nA. Styve\\nBIDATA\r\nLAST-MODIFIED:20200107T184618Z\r\nLOCATION:Kaupangen Ankeret (Hovedbygget)\r\nSEQUENCE:0\r\nSTATUS:CONFIRMED\r\nSUMMARY:IDATA2001 Forelesning\r\nTRANSP:OPAQUE\r\nX-EVOLUTION-CALDAV-ETAG:63714105978\r\nBEGIN:VALARM\r\nACTION:DISPLAY\r\nDESCRIPTION:This is an event reminder\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:7fa8cbb0817a47992a8981d6653aad121f5f1d75\r\nEND:VALARM\r\nBEGIN:VALARM\r\nACTION:EMAIL\r\nDESCRIPTION:This is an event reminder\r\nSUMMARY:Alarm notification\r\nATTENDEE:mailto:mortbringsli@gmail.com\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:22e3ead7ef68777359351cc0f544c96db76484c5\r\nEND:VALARM\r\nEND:VEVENT\r\n', '2b5e3883b3d59787d1009f74c96c4b00ba1f3392\nca42eb06491a19740805ea8b475686c65e32ec57\n1580971500\n1580973300\n1580979600\nBEGIN:VEVENT\r\nDTSTART;TZID=Europe/Oslo:20200206T081500\r\nDTEND;TZID=Europe/Oslo:20200206T100000\r\nDTSTAMP:20200107T184618Z\r\nUID:194-IMAA2021-1-1-3_2020_VÅR_IMAA2021-6@innsida.ntnu.no\r\nCREATED:20200107T184110Z\r\nDESCRIPTION:Forelesing/Øving\\nMatematiske metoder 2 for \r\n Dataingeniør\\n\\nS.B. Van Albada\\nBIDATA\r\nLAST-MODIFIED:20200107T184618Z\r\nLOCATION:C220 Ankeret (Hovedbygget)\r\nSEQUENCE:0\r\nSTATUS:CONFIRMED\r\nSUMMARY:IMAA2021 Forelesing/Øving\r\nTRANSP:OPAQUE\r\nX-EVOLUTION-CALDAV-ETAG:63714105978\r\nBEGIN:VALARM\r\nACTION:DISPLAY\r\nDESCRIPTION:This is an event reminder\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:ca42eb06491a19740805ea8b475686c65e32ec57\r\nEND:VALARM\r\nBEGIN:VALARM\r\nACTION:EMAIL\r\nDESCRIPTION:This is an event reminder\r\nSUMMARY:Alarm notification\r\nATTENDEE:mailto:mortbringsli@gmail.com\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:1f601deefc51ef40ac9dc5679551650eb7769217\r\nEND:VALARM\r\nEND:VEVENT\r\n', '2b5e3883b3d59787d1009f74c96c4b00ba1f3392\n524df7e6e9d3e065f2c2c8e2a0a6268240e30b46\n1580899500\n1580901300\n1580914800\nBEGIN:VEVENT\r\nDTSTART;TZID=Europe/Oslo:20200205T121500\r\nDTEND;TZID=Europe/Oslo:20200205T160000\r\nDTSTAMP:20200107T184618Z\r\nUID:194-IDATA1002-1-1-2_2020_VÅR_IDATA1002-6@innsida.ntnu.no\r\nCREATED:20200107T184110Z\r\nDESCRIPTION:Forelesning\\nSystemutvikling\\n\\nK.I. Tomren\\nBIDATA\r\nLAST-MODIFIED:20200107T184618Z\r\nLOCATION:C220 Ankeret (Hovedbygget)\r\nSEQUENCE:0\r\nSTATUS:CONFIRMED\r\nSUMMARY:IDATA1002 Forelesning\r\nTRANSP:OPAQUE\r\nX-EVOLUTION-CALDAV-ETAG:63714105978\r\nBEGIN:VALARM\r\nACTION:DISPLAY\r\nDESCRIPTION:This is an event reminder\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:524df7e6e9d3e065f2c2c8e2a0a6268240e30b46\r\nEND:VALARM\r\nBEGIN:VALARM\r\nACTION:EMAIL\r\nDESCRIPTION:This is an event reminder\r\nSUMMARY:Alarm notification\r\nATTENDEE:mailto:mortbringsli@gmail.com\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:e41d90edc828fde808d337054014a70538e03bc7\r\nEND:VALARM\r\nEND:VEVENT\r\n', '2b5e3883b3d59787d1009f74c96c4b00ba1f3392\n12ddc5e7fb3e2b98c1262816ceeb6cb519394bf3\n1580885100\n1580886900\n1580900400\nBEGIN:VEVENT\r\nDTSTART;TZID=Europe/Oslo:20200205T081500\r\nDTEND;TZID=Europe/Oslo:20200205T120000\r\nDTSTAMP:20200107T184618Z\r\nUID:194-IMAA2021-1-1-2_2020_VÅR_IMAA2021-6@innsida.ntnu.no\r\nCREATED:20200107T184110Z\r\nDESCRIPTION:Forelesing/Øving\\nMatematiske metoder 2 for \r\n Dataingeniør\\n\\nS.B. Van Albada\\nBIDATA\r\nLAST-MODIFIED:20200107T184618Z\r\nLOCATION:C220 Ankeret (Hovedbygget)\r\nSEQUENCE:0\r\nSTATUS:CONFIRMED\r\nSUMMARY:IMAA2021 Forelesing/Øving\r\nTRANSP:OPAQUE\r\nX-EVOLUTION-CALDAV-ETAG:63714105978\r\nBEGIN:VALARM\r\nACTION:DISPLAY\r\nDESCRIPTION:This is an event reminder\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:12ddc5e7fb3e2b98c1262816ceeb6cb519394bf3\r\nEND:VALARM\r\nBEGIN:VALARM\r\nACTION:EMAIL\r\nDESCRIPTION:This is an event reminder\r\nSUMMARY:Alarm notification\r\nATTENDEE:mailto:mortbringsli@gmail.com\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:2c543890a321f30dac51836ac38c78cd2f1451c8\r\nEND:VALARM\r\nEND:VEVENT\r\n', '2b5e3883b3d59787d1009f74c96c4b00ba1f3392\nfa71993d1e50147085a5b739abacc4bd89e494b7\n1580813100\n1580814900\n1580824800\nBEGIN:VEVENT\r\nDTSTART;TZID=Europe/Oslo:20200204T121500\r\nDTEND;TZID=Europe/Oslo:20200204T150000\r\nDTSTAMP:20200107T184618Z\r\nUID:194-IDATA2001-1-1-2_2020_VÅR_IDATA2001-6@innsida.ntnu.no\r\nCREATED:20200107T184110Z\r\nDESCRIPTION:Øving\\nProgrammering 2\\n\\nA. Styve\\nBIDATA\r\nLAST-MODIFIED:20200107T184618Z\r\nLOCATION:C220 Ankeret (Hovedbygget)\r\nSEQUENCE:0\r\nSTATUS:CONFIRMED\r\nSUMMARY:IDATA2001 Øving\r\nTRANSP:OPAQUE\r\nX-EVOLUTION-CALDAV-ETAG:63714105978\r\nBEGIN:VALARM\r\nACTION:DISPLAY\r\nDESCRIPTION:This is an event reminder\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:fa71993d1e50147085a5b739abacc4bd89e494b7\r\nEND:VALARM\r\nBEGIN:VALARM\r\nACTION:EMAIL\r\nDESCRIPTION:This is an event reminder\r\nSUMMARY:Alarm notification\r\nATTENDEE:mailto:mortbringsli@gmail.com\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:510970370bca94a8c09ab938884bf45891c7dddb\r\nEND:VALARM\r\nEND:VEVENT\r\n', '2b5e3883b3d59787d1009f74c96c4b00ba1f3392\nc285f0a39a062935149d19c3b8e8c6518084d5dd\n1580798700\n1580800500\n1580806800\nBEGIN:VEVENT\r\nDTSTART;TZID=Europe/Oslo:20200204T081500\r\nDTEND;TZID=Europe/Oslo:20200204T100000\r\nDTSTAMP:20200107T184618Z\r\nUID:194-IDATA2001-1-1-1_2020_VÅR_IDATA2001-6@innsida.ntnu.no\r\nCREATED:20200107T184110Z\r\nDESCRIPTION:Forelesning\\nProgrammering 2\\n\\nA. Styve\\nBIDATA\r\nLAST-MODIFIED:20200107T184618Z\r\nLOCATION:Nørvasundet Ankeret (Hovedbygget)\r\nSEQUENCE:0\r\nSTATUS:CONFIRMED\r\nSUMMARY:IDATA2001 Forelesning\r\nTRANSP:OPAQUE\r\nX-EVOLUTION-CALDAV-ETAG:63714105978\r\nBEGIN:VALARM\r\nACTION:DISPLAY\r\nDESCRIPTION:This is an event reminder\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:c285f0a39a062935149d19c3b8e8c6518084d5dd\r\nEND:VALARM\r\nBEGIN:VALARM\r\nACTION:EMAIL\r\nDESCRIPTION:This is an event reminder\r\nSUMMARY:Alarm notification\r\nATTENDEE:mailto:mortbringsli@gmail.com\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:3872684d80c6b2524bf2f9b2ca5cf0d3a1b466e9\r\nEND:VALARM\r\nEND:VEVENT\r\n', '2b5e3883b3d59787d1009f74c96c4b00ba1f3392\n49473c83fd16a474a324e9ef098b306abd02ae5a\n1580733900\n1580735700\n1580742000\nBEGIN:VEVENT\r\nDTSTART;TZID=Europe/Oslo:20200203T141500\r\nDTEND;TZID=Europe/Oslo:20200203T160000\r\nDTSTAMP:20200107T184618Z\r\nUID:194-IDATA1002-1-1-1_2020_VÅR_IDATA1002-6@innsida.ntnu.no\r\nCREATED:20200107T184110Z\r\nDESCRIPTION:Forelesning\\nSystemutvikling\\n\\nK.I. Tomren\\nBIDATA\r\nLAST-MODIFIED:20200107T184618Z\r\nLOCATION:C220 Ankeret (Hovedbygget)\r\nSEQUENCE:0\r\nSTATUS:CONFIRMED\r\nSUMMARY:IDATA1002 Forelesning\r\nTRANSP:OPAQUE\r\nX-EVOLUTION-CALDAV-ETAG:63714105978\r\nBEGIN:VALARM\r\nACTION:DISPLAY\r\nDESCRIPTION:This is an event reminder\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:49473c83fd16a474a324e9ef098b306abd02ae5a\r\nEND:VALARM\r\nBEGIN:VALARM\r\nACTION:EMAIL\r\nDESCRIPTION:This is an event reminder\r\nSUMMARY:Alarm notification\r\nATTENDEE:mailto:mortbringsli@gmail.com\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:542457c5ed3ff51a69a719f6258d31a122aa7f43\r\nEND:VALARM\r\nEND:VEVENT\r\n', '2b5e3883b3d59787d1009f74c96c4b00ba1f3392\n4ea8fc791e131355eb2cd6b8b91a1ae49ce38d17\n1580467500\n1580469300\n1580475600\nBEGIN:VEVENT\r\nDTSTART;TZID=Europe/Oslo:20200131T121500\r\nDTEND;TZID=Europe/Oslo:20200131T140000\r\nDTSTAMP:20200107T184618Z\r\nUID:194-IMAA2021-1-1-1_2020_VÅR_IMAA2021-5@innsida.ntnu.no\r\nCREATED:20200107T184110Z\r\nDESCRIPTION:Forelesing/Øving\\nMatematiske metoder 2 for \r\n Dataingeniør\\n\\nS.B. Van Albada\\nBIDATA\r\nLAST-MODIFIED:20200107T184618Z\r\nLOCATION:C220 Ankeret (Hovedbygget)\r\nSEQUENCE:0\r\nSTATUS:CONFIRMED\r\nSUMMARY:IMAA2021 Forelesing/Øving\r\nTRANSP:OPAQUE\r\nX-EVOLUTION-CALDAV-ETAG:63714105978\r\nBEGIN:VALARM\r\nACTION:DISPLAY\r\nDESCRIPTION:This is an event reminder\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:4ea8fc791e131355eb2cd6b8b91a1ae49ce38d17\r\nEND:VALARM\r\nBEGIN:VALARM\r\nACTION:EMAIL\r\nDESCRIPTION:This is an event reminder\r\nSUMMARY:Alarm notification\r\nATTENDEE:mailto:mortbringsli@gmail.com\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:1ef08e16d832b87002d1d514db6a61eb649e84ee\r\nEND:VALARM\r\nEND:VEVENT\r\n', '2b5e3883b3d59787d1009f74c96c4b00ba1f3392\n79ac6509c2dbc39e3c97050c535359c40561f4fa\n1580381100\n1580382900\n1580392800\nBEGIN:VEVENT\r\nDTSTART;TZID=Europe/Oslo:20200130T121500\r\nDTEND;TZID=Europe/Oslo:20200130T150000\r\nDTSTAMP:20200107T184618Z\r\nUID:194-IDATA2001-1-1-4_2020_VÅR_IDATA2001-5@innsida.ntnu.no\r\nCREATED:20200107T184110Z\r\nDESCRIPTION:Øving\\nProgrammering 2\\n\\nA. Styve\\nBIDATA\r\nLAST-MODIFIED:20200107T184618Z\r\nLOCATION:C220 Ankeret (Hovedbygget)\r\nSEQUENCE:0\r\nSTATUS:CONFIRMED\r\nSUMMARY:IDATA2001 Øving\r\nTRANSP:OPAQUE\r\nX-EVOLUTION-CALDAV-ETAG:63714105978\r\nBEGIN:VALARM\r\nACTION:DISPLAY\r\nDESCRIPTION:This is an event reminder\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:79ac6509c2dbc39e3c97050c535359c40561f4fa\r\nEND:VALARM\r\nBEGIN:VALARM\r\nACTION:EMAIL\r\nDESCRIPTION:This is an event reminder\r\nSUMMARY:Alarm notification\r\nATTENDEE:mailto:mortbringsli@gmail.com\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:556e573feca3f8e2b5f9303223fd88bc3b988f75\r\nEND:VALARM\r\nEND:VEVENT\r\n', '2b5e3883b3d59787d1009f74c96c4b00ba1f3392\nec6b16c643421dceb5476b26dd16885dd8d369ad\n1580373900\n1580375700\n1580382000\nBEGIN:VEVENT\r\nDTSTART;TZID=Europe/Oslo:20200130T101500\r\nDTEND;TZID=Europe/Oslo:20200130T120000\r\nDTSTAMP:20200107T184618Z\r\nUID:194-IDATA2001-1-1-3_2020_VÅR_IDATA2001-5@innsida.ntnu.no\r\nCREATED:20200107T184110Z\r\nDESCRIPTION:Forelesning\\nProgrammering 2\\n\\nA. Styve\\nBIDATA\r\nLAST-MODIFIED:20200107T184618Z\r\nLOCATION:Kaupangen Ankeret (Hovedbygget)\r\nSEQUENCE:0\r\nSTATUS:CONFIRMED\r\nSUMMARY:IDATA2001 Forelesning\r\nTRANSP:OPAQUE\r\nX-EVOLUTION-CALDAV-ETAG:63714105978\r\nBEGIN:VALARM\r\nACTION:DISPLAY\r\nDESCRIPTION:This is an event reminder\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:ec6b16c643421dceb5476b26dd16885dd8d369ad\r\nEND:VALARM\r\nBEGIN:VALARM\r\nACTION:EMAIL\r\nDESCRIPTION:This is an event reminder\r\nSUMMARY:Alarm notification\r\nATTENDEE:mailto:mortbringsli@gmail.com\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:d618730791d433a6885faafef58a72e32a212815\r\nEND:VALARM\r\nEND:VEVENT\r\n', '2b5e3883b3d59787d1009f74c96c4b00ba1f3392\n595c1b81b54249f3e0e08ea9255f8bbfb3860b9c\n1580366700\n1580368500\n1580374800\nBEGIN:VEVENT\r\nDTSTART;TZID=Europe/Oslo:20200130T081500\r\nDTEND;TZID=Europe/Oslo:20200130T100000\r\nDTSTAMP:20200107T184618Z\r\nUID:194-IMAA2021-1-1-3_2020_VÅR_IMAA2021-5@innsida.ntnu.no\r\nCREATED:20200107T184110Z\r\nDESCRIPTION:Forelesing/Øving\\nMatematiske metoder 2 for \r\n Dataingeniør\\n\\nS.B. Van Albada\\nBIDATA\r\nLAST-MODIFIED:20200107T184618Z\r\nLOCATION:C220 Ankeret (Hovedbygget)\r\nSEQUENCE:0\r\nSTATUS:CONFIRMED\r\nSUMMARY:IMAA2021 Forelesing/Øving\r\nTRANSP:OPAQUE\r\nX-EVOLUTION-CALDAV-ETAG:63714105978\r\nBEGIN:VALARM\r\nACTION:DISPLAY\r\nDESCRIPTION:This is an event reminder\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:595c1b81b54249f3e0e08ea9255f8bbfb3860b9c\r\nEND:VALARM\r\nBEGIN:VALARM\r\nACTION:EMAIL\r\nDESCRIPTION:This is an event reminder\r\nSUMMARY:Alarm notification\r\nATTENDEE:mailto:mortbringsli@gmail.com\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:70465145eb9d4d8e269957da1f0bac68e7b799ae\r\nEND:VALARM\r\nEND:VEVENT\r\n', '2b5e3883b3d59787d1009f74c96c4b00ba1f3392\nd14c3ee90030e5eb73965b170c44fc260f2b79df\n1580294700\n1580296500\n1580310000\nBEGIN:VEVENT\r\nDTSTART;TZID=Europe/Oslo:20200129T121500\r\nDTEND;TZID=Europe/Oslo:20200129T160000\r\nDTSTAMP:20200107T184618Z\r\nUID:194-IDATA1002-1-1-2_2020_VÅR_IDATA1002-5@innsida.ntnu.no\r\nCREATED:20200107T184110Z\r\nDESCRIPTION:Forelesning\\nSystemutvikling\\n\\nK.I. Tomren\\nBIDATA\r\nLAST-MODIFIED:20200107T184618Z\r\nLOCATION:C220 Ankeret (Hovedbygget)\r\nSEQUENCE:0\r\nSTATUS:CONFIRMED\r\nSUMMARY:IDATA1002 Forelesning\r\nTRANSP:OPAQUE\r\nX-EVOLUTION-CALDAV-ETAG:63714105978\r\nBEGIN:VALARM\r\nACTION:DISPLAY\r\nDESCRIPTION:This is an event reminder\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:d14c3ee90030e5eb73965b170c44fc260f2b79df\r\nEND:VALARM\r\nBEGIN:VALARM\r\nACTION:EMAIL\r\nDESCRIPTION:This is an event reminder\r\nSUMMARY:Alarm notification\r\nATTENDEE:mailto:mortbringsli@gmail.com\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:9ae1d26eb1595698a1b2656dae6ae698831bf6b5\r\nEND:VALARM\r\nEND:VEVENT\r\n', '2b5e3883b3d59787d1009f74c96c4b00ba1f3392\nca35d906f6c50e3ca68f46017084d60868a987bf\n1580280300\n1580282100\n1580295600\nBEGIN:VEVENT\r\nDTSTART;TZID=Europe/Oslo:20200129T081500\r\nDTEND;TZID=Europe/Oslo:20200129T120000\r\nDTSTAMP:20200107T184618Z\r\nUID:194-IMAA2021-1-1-2_2020_VÅR_IMAA2021-5@innsida.ntnu.no\r\nCREATED:20200107T184110Z\r\nDESCRIPTION:Forelesing/Øving\\nMatematiske metoder 2 for \r\n Dataingeniør\\n\\nS.B. Van Albada\\nBIDATA\r\nLAST-MODIFIED:20200107T184618Z\r\nLOCATION:C220 Ankeret (Hovedbygget)\r\nSEQUENCE:0\r\nSTATUS:CONFIRMED\r\nSUMMARY:IMAA2021 Forelesing/Øving\r\nTRANSP:OPAQUE\r\nX-EVOLUTION-CALDAV-ETAG:63714105978\r\nBEGIN:VALARM\r\nACTION:DISPLAY\r\nDESCRIPTION:This is an event reminder\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:ca35d906f6c50e3ca68f46017084d60868a987bf\r\nEND:VALARM\r\nBEGIN:VALARM\r\nACTION:EMAIL\r\nDESCRIPTION:This is an event reminder\r\nSUMMARY:Alarm notification\r\nATTENDEE:mailto:mortbringsli@gmail.com\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:793ef34a39c9e26c82bf516800aca7d2ee7b13d5\r\nEND:VALARM\r\nEND:VEVENT\r\n', '2b5e3883b3d59787d1009f74c96c4b00ba1f3392\n49ca119b49290e8a61248076c691e368772f2705\n1580208300\n1580210100\n1580220000\nBEGIN:VEVENT\r\nDTSTART;TZID=Europe/Oslo:20200128T121500\r\nDTEND;TZID=Europe/Oslo:20200128T150000\r\nDTSTAMP:20200107T184618Z\r\nUID:194-IDATA2001-1-1-2_2020_VÅR_IDATA2001-5@innsida.ntnu.no\r\nCREATED:20200107T184110Z\r\nDESCRIPTION:Øving\\nProgrammering 2\\n\\nA. Styve\\nBIDATA\r\nLAST-MODIFIED:20200107T184618Z\r\nLOCATION:C220 Ankeret (Hovedbygget)\r\nSEQUENCE:0\r\nSTATUS:CONFIRMED\r\nSUMMARY:IDATA2001 Øving\r\nTRANSP:OPAQUE\r\nX-EVOLUTION-CALDAV-ETAG:63714105978\r\nBEGIN:VALARM\r\nACTION:DISPLAY\r\nDESCRIPTION:This is an event reminder\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:49ca119b49290e8a61248076c691e368772f2705\r\nEND:VALARM\r\nBEGIN:VALARM\r\nACTION:EMAIL\r\nDESCRIPTION:This is an event reminder\r\nSUMMARY:Alarm notification\r\nATTENDEE:mailto:mortbringsli@gmail.com\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:e2d1c328e6623e16aac69d5f34f55f7948ac4830\r\nEND:VALARM\r\nEND:VEVENT\r\n', '2b5e3883b3d59787d1009f74c96c4b00ba1f3392\nb0f4d3cc319242edba3832795118c10cddd773b0\n1580193900\n1580195700\n1580202000\nBEGIN:VEVENT\r\nDTSTART;TZID=Europe/Oslo:20200128T081500\r\nDTEND;TZID=Europe/Oslo:20200128T100000\r\nDTSTAMP:20200107T184618Z\r\nUID:194-IDATA2001-1-1-1_2020_VÅR_IDATA2001-5@innsida.ntnu.no\r\nCREATED:20200107T184110Z\r\nDESCRIPTION:Forelesning\\nProgrammering 2\\n\\nA. Styve\\nBIDATA\r\nLAST-MODIFIED:20200107T184618Z\r\nLOCATION:Nørvasundet Ankeret (Hovedbygget)\r\nSEQUENCE:0\r\nSTATUS:CONFIRMED\r\nSUMMARY:IDATA2001 Forelesning\r\nTRANSP:OPAQUE\r\nX-EVOLUTION-CALDAV-ETAG:63714105978\r\nBEGIN:VALARM\r\nACTION:DISPLAY\r\nDESCRIPTION:This is an event reminder\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:b0f4d3cc319242edba3832795118c10cddd773b0\r\nEND:VALARM\r\nBEGIN:VALARM\r\nACTION:EMAIL\r\nDESCRIPTION:This is an event reminder\r\nSUMMARY:Alarm notification\r\nATTENDEE:mailto:mortbringsli@gmail.com\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:e3e542a6dbd6597a2ff62ac332c56beb3ed3f174\r\nEND:VALARM\r\nEND:VEVENT\r\n', '2b5e3883b3d59787d1009f74c96c4b00ba1f3392\n7ccc4119849bacde927d937a626d8a7b087536dc\n1580129100\n1580130900\n1580137200\nBEGIN:VEVENT\r\nDTSTART;TZID=Europe/Oslo:20200127T141500\r\nDTEND;TZID=Europe/Oslo:20200127T160000\r\nDTSTAMP:20200107T184618Z\r\nUID:194-IDATA1002-1-1-1_2020_VÅR_IDATA1002-5@innsida.ntnu.no\r\nCREATED:20200107T184110Z\r\nDESCRIPTION:Forelesning\\nSystemutvikling\\n\\nK.I. Tomren\\nBIDATA\r\nLAST-MODIFIED:20200107T184618Z\r\nLOCATION:C220 Ankeret (Hovedbygget)\r\nSEQUENCE:0\r\nSTATUS:CONFIRMED\r\nSUMMARY:IDATA1002 Forelesning\r\nTRANSP:OPAQUE\r\nX-EVOLUTION-CALDAV-ETAG:63714105978\r\nBEGIN:VALARM\r\nACTION:DISPLAY\r\nDESCRIPTION:This is an event reminder\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:7ccc4119849bacde927d937a626d8a7b087536dc\r\nEND:VALARM\r\nBEGIN:VALARM\r\nACTION:EMAIL\r\nDESCRIPTION:This is an event reminder\r\nSUMMARY:Alarm notification\r\nATTENDEE:mailto:mortbringsli@gmail.com\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:fb291f743d75e55caa045ec86cd7e3ad7ac74c04\r\nEND:VALARM\r\nEND:VEVENT\r\n', '2b5e3883b3d59787d1009f74c96c4b00ba1f3392\ndd48272bf57652c48f39f7e3cdf07da8c8b738b4\n1579862700\n1579864500\n1579870800\nBEGIN:VEVENT\r\nDTSTART;TZID=Europe/Oslo:20200124T121500\r\nDTEND;TZID=Europe/Oslo:20200124T140000\r\nDTSTAMP:20200107T184618Z\r\nUID:194-IMAA2021-1-1-1_2020_VÅR_IMAA2021-4@innsida.ntnu.no\r\nCREATED:20200107T184110Z\r\nDESCRIPTION:Forelesing/Øving\\nMatematiske metoder 2 for \r\n Dataingeniør\\n\\nS.B. Van Albada\\nBIDATA\r\nLAST-MODIFIED:20200107T184618Z\r\nLOCATION:C220 Ankeret (Hovedbygget)\r\nSEQUENCE:0\r\nSTATUS:CONFIRMED\r\nSUMMARY:IMAA2021 Forelesing/Øving\r\nTRANSP:OPAQUE\r\nX-EVOLUTION-CALDAV-ETAG:63714105978\r\nBEGIN:VALARM\r\nACTION:DISPLAY\r\nDESCRIPTION:This is an event reminder\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:dd48272bf57652c48f39f7e3cdf07da8c8b738b4\r\nEND:VALARM\r\nBEGIN:VALARM\r\nACTION:EMAIL\r\nDESCRIPTION:This is an event reminder\r\nSUMMARY:Alarm notification\r\nATTENDEE:mailto:mortbringsli@gmail.com\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:7b4832d77b6fcf59e166d30aff241adabc77f246\r\nEND:VALARM\r\nEND:VEVENT\r\n', '2b5e3883b3d59787d1009f74c96c4b00ba1f3392\n9ff69ff034fad37f966ef1c033584d6741e7de90\n1579776300\n1579778100\n1579788000\nBEGIN:VEVENT\r\nDTSTART;TZID=Europe/Oslo:20200123T121500\r\nDTEND;TZID=Europe/Oslo:20200123T150000\r\nDTSTAMP:20200107T184618Z\r\nUID:194-IDATA2001-1-1-4_2020_VÅR_IDATA2001-4@innsida.ntnu.no\r\nCREATED:20200107T184110Z\r\nDESCRIPTION:Øving\\nProgrammering 2\\n\\nA. Styve\\nBIDATA\r\nLAST-MODIFIED:20200107T184618Z\r\nLOCATION:C220 Ankeret (Hovedbygget)\r\nSEQUENCE:0\r\nSTATUS:CONFIRMED\r\nSUMMARY:IDATA2001 Øving\r\nTRANSP:OPAQUE\r\nX-EVOLUTION-CALDAV-ETAG:63714105978\r\nBEGIN:VALARM\r\nACTION:DISPLAY\r\nDESCRIPTION:This is an event reminder\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:9ff69ff034fad37f966ef1c033584d6741e7de90\r\nEND:VALARM\r\nBEGIN:VALARM\r\nACTION:EMAIL\r\nDESCRIPTION:This is an event reminder\r\nSUMMARY:Alarm notification\r\nATTENDEE:mailto:mortbringsli@gmail.com\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:d10ca4cf8335d4a3fc116cddf1d57a8652ad7972\r\nEND:VALARM\r\nEND:VEVENT\r\n', '2b5e3883b3d59787d1009f74c96c4b00ba1f3392\n8a70d469731b8e1c00a611bed7712efb50c7f70f\n1579769100\n1579770900\n1579777200\nBEGIN:VEVENT\r\nDTSTART;TZID=Europe/Oslo:20200123T101500\r\nDTEND;TZID=Europe/Oslo:20200123T120000\r\nDTSTAMP:20200107T184618Z\r\nUID:194-IDATA2001-1-1-3_2020_VÅR_IDATA2001-4@innsida.ntnu.no\r\nCREATED:20200107T184110Z\r\nDESCRIPTION:Forelesning\\nProgrammering 2\\n\\nA. Styve\\nBIDATA\r\nLAST-MODIFIED:20200107T184618Z\r\nLOCATION:Kaupangen Ankeret (Hovedbygget)\r\nSEQUENCE:0\r\nSTATUS:CONFIRMED\r\nSUMMARY:IDATA2001 Forelesning\r\nTRANSP:OPAQUE\r\nX-EVOLUTION-CALDAV-ETAG:63714105978\r\nBEGIN:VALARM\r\nACTION:DISPLAY\r\nDESCRIPTION:This is an event reminder\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:8a70d469731b8e1c00a611bed7712efb50c7f70f\r\nEND:VALARM\r\nBEGIN:VALARM\r\nACTION:EMAIL\r\nDESCRIPTION:This is an event reminder\r\nSUMMARY:Alarm notification\r\nATTENDEE:mailto:mortbringsli@gmail.com\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:e42c7c77caf462f9d7b127f5bfdafa50f97dbbba\r\nEND:VALARM\r\nEND:VEVENT\r\n', '2b5e3883b3d59787d1009f74c96c4b00ba1f3392\nbc3de96f14708623e84f138c72872f4bd674e07c\n1579761900\n1579763700\n1579770000\nBEGIN:VEVENT\r\nDTSTART;TZID=Europe/Oslo:20200123T081500\r\nDTEND;TZID=Europe/Oslo:20200123T100000\r\nDTSTAMP:20200107T184618Z\r\nUID:194-IMAA2021-1-1-3_2020_VÅR_IMAA2021-4@innsida.ntnu.no\r\nCREATED:20200107T184110Z\r\nDESCRIPTION:Forelesing/Øving\\nMatematiske metoder 2 for \r\n Dataingeniør\\n\\nS.B. Van Albada\\nBIDATA\r\nLAST-MODIFIED:20200107T184618Z\r\nLOCATION:C220 Ankeret (Hovedbygget)\r\nSEQUENCE:0\r\nSTATUS:CONFIRMED\r\nSUMMARY:IMAA2021 Forelesing/Øving\r\nTRANSP:OPAQUE\r\nX-EVOLUTION-CALDAV-ETAG:63714105978\r\nBEGIN:VALARM\r\nACTION:DISPLAY\r\nDESCRIPTION:This is an event reminder\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:bc3de96f14708623e84f138c72872f4bd674e07c\r\nEND:VALARM\r\nBEGIN:VALARM\r\nACTION:EMAIL\r\nDESCRIPTION:This is an event reminder\r\nSUMMARY:Alarm notification\r\nATTENDEE:mailto:mortbringsli@gmail.com\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:7d516c5ffd58c741c8f5fd05feddec7e0aa80572\r\nEND:VALARM\r\nEND:VEVENT\r\n', '2b5e3883b3d59787d1009f74c96c4b00ba1f3392\nc0aef650fb16197412211431da7a1a731f00441f\n1579689900\n1579691700\n1579705200\nBEGIN:VEVENT\r\nDTSTART;TZID=Europe/Oslo:20200122T121500\r\nDTEND;TZID=Europe/Oslo:20200122T160000\r\nDTSTAMP:20200107T184618Z\r\nUID:194-IDATA1002-1-1-2_2020_VÅR_IDATA1002-4@innsida.ntnu.no\r\nCREATED:20200107T184110Z\r\nDESCRIPTION:Forelesning\\nSystemutvikling\\n\\nK.I. Tomren\\nBIDATA\r\nLAST-MODIFIED:20200107T184618Z\r\nLOCATION:C220 Ankeret (Hovedbygget)\r\nSEQUENCE:0\r\nSTATUS:CONFIRMED\r\nSUMMARY:IDATA1002 Forelesning\r\nTRANSP:OPAQUE\r\nX-EVOLUTION-CALDAV-ETAG:63714105978\r\nBEGIN:VALARM\r\nACTION:DISPLAY\r\nDESCRIPTION:This is an event reminder\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:c0aef650fb16197412211431da7a1a731f00441f\r\nEND:VALARM\r\nBEGIN:VALARM\r\nACTION:EMAIL\r\nDESCRIPTION:This is an event reminder\r\nSUMMARY:Alarm notification\r\nATTENDEE:mailto:mortbringsli@gmail.com\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:bf09d4ab6a8ce6092c4082ac55c9b1c3c3561291\r\nEND:VALARM\r\nEND:VEVENT\r\n', '2b5e3883b3d59787d1009f74c96c4b00ba1f3392\n576d477674d723582be5ee6fe0d59716a8c4c7ef\n1579675500\n1579677300\n1579690800\nBEGIN:VEVENT\r\nDTSTART;TZID=Europe/Oslo:20200122T081500\r\nDTEND;TZID=Europe/Oslo:20200122T120000\r\nDTSTAMP:20200107T184618Z\r\nUID:194-IMAA2021-1-1-2_2020_VÅR_IMAA2021-4@innsida.ntnu.no\r\nCREATED:20200107T184110Z\r\nDESCRIPTION:Forelesing/Øving\\nMatematiske metoder 2 for \r\n Dataingeniør\\n\\nS.B. Van Albada\\nBIDATA\r\nLAST-MODIFIED:20200107T184618Z\r\nLOCATION:C220 Ankeret (Hovedbygget)\r\nSEQUENCE:0\r\nSTATUS:CONFIRMED\r\nSUMMARY:IMAA2021 Forelesing/Øving\r\nTRANSP:OPAQUE\r\nX-EVOLUTION-CALDAV-ETAG:63714105978\r\nBEGIN:VALARM\r\nACTION:DISPLAY\r\nDESCRIPTION:This is an event reminder\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:576d477674d723582be5ee6fe0d59716a8c4c7ef\r\nEND:VALARM\r\nBEGIN:VALARM\r\nACTION:EMAIL\r\nDESCRIPTION:This is an event reminder\r\nSUMMARY:Alarm notification\r\nATTENDEE:mailto:mortbringsli@gmail.com\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:2135b5ac70d50b11e75f15c6c8745ed18eeaab71\r\nEND:VALARM\r\nEND:VEVENT\r\n', '2b5e3883b3d59787d1009f74c96c4b00ba1f3392\n993900baa34e83c8d1c941f84d69f9396c81b4ed\n1579603500\n1579605300\n1579615200\nBEGIN:VEVENT\r\nDTSTART;TZID=Europe/Oslo:20200121T121500\r\nDTEND;TZID=Europe/Oslo:20200121T150000\r\nDTSTAMP:20200107T184618Z\r\nUID:194-IDATA2001-1-1-2_2020_VÅR_IDATA2001-4@innsida.ntnu.no\r\nCREATED:20200107T184110Z\r\nDESCRIPTION:Øving\\nProgrammering 2\\n\\nA. Styve\\nBIDATA\r\nLAST-MODIFIED:20200107T184618Z\r\nLOCATION:C220 Ankeret (Hovedbygget)\r\nSEQUENCE:0\r\nSTATUS:CONFIRMED\r\nSUMMARY:IDATA2001 Øving\r\nTRANSP:OPAQUE\r\nX-EVOLUTION-CALDAV-ETAG:63714105978\r\nBEGIN:VALARM\r\nACTION:DISPLAY\r\nDESCRIPTION:This is an event reminder\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:993900baa34e83c8d1c941f84d69f9396c81b4ed\r\nEND:VALARM\r\nBEGIN:VALARM\r\nACTION:EMAIL\r\nDESCRIPTION:This is an event reminder\r\nSUMMARY:Alarm notification\r\nATTENDEE:mailto:mortbringsli@gmail.com\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:94456d81ae00113ebf84b52efe3de9b78fe8d708\r\nEND:VALARM\r\nEND:VEVENT\r\n', '2b5e3883b3d59787d1009f74c96c4b00ba1f3392\n01241d909fc15f6384f2fdad5b1308c028b5f2f9\n1579589100\n1579590900\n1579597200\nBEGIN:VEVENT\r\nDTSTART;TZID=Europe/Oslo:20200121T081500\r\nDTEND;TZID=Europe/Oslo:20200121T100000\r\nDTSTAMP:20200107T184618Z\r\nUID:194-IDATA2001-1-1-1_2020_VÅR_IDATA2001-4@innsida.ntnu.no\r\nCREATED:20200107T184110Z\r\nDESCRIPTION:Forelesning\\nProgrammering 2\\n\\nA. Styve\\nBIDATA\r\nLAST-MODIFIED:20200107T184618Z\r\nLOCATION:Nørvasundet Ankeret (Hovedbygget)\r\nSEQUENCE:0\r\nSTATUS:CONFIRMED\r\nSUMMARY:IDATA2001 Forelesning\r\nTRANSP:OPAQUE\r\nX-EVOLUTION-CALDAV-ETAG:63714105978\r\nBEGIN:VALARM\r\nACTION:DISPLAY\r\nDESCRIPTION:This is an event reminder\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:01241d909fc15f6384f2fdad5b1308c028b5f2f9\r\nEND:VALARM\r\nBEGIN:VALARM\r\nACTION:EMAIL\r\nDESCRIPTION:This is an event reminder\r\nSUMMARY:Alarm notification\r\nATTENDEE:mailto:mortbringsli@gmail.com\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:798ad3741ca77784ee721d0c359596b9fe8307a3\r\nEND:VALARM\r\nEND:VEVENT\r\n', '2b5e3883b3d59787d1009f74c96c4b00ba1f3392\n0a5b111e0552c0df9ebcdd56f5ea857780de2309\n1579524300\n1579526100\n1579532400\nBEGIN:VEVENT\r\nDTSTART;TZID=Europe/Oslo:20200120T141500\r\nDTEND;TZID=Europe/Oslo:20200120T160000\r\nDTSTAMP:20200107T184618Z\r\nUID:194-IDATA1002-1-1-1_2020_VÅR_IDATA1002-4@innsida.ntnu.no\r\nCREATED:20200107T184110Z\r\nDESCRIPTION:Forelesning\\nSystemutvikling\\n\\nK.I. Tomren\\nBIDATA\r\nLAST-MODIFIED:20200107T184618Z\r\nLOCATION:C220 Ankeret (Hovedbygget)\r\nSEQUENCE:0\r\nSTATUS:CONFIRMED\r\nSUMMARY:IDATA1002 Forelesning\r\nTRANSP:OPAQUE\r\nX-EVOLUTION-CALDAV-ETAG:63714105978\r\nBEGIN:VALARM\r\nACTION:DISPLAY\r\nDESCRIPTION:This is an event reminder\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:0a5b111e0552c0df9ebcdd56f5ea857780de2309\r\nEND:VALARM\r\nBEGIN:VALARM\r\nACTION:EMAIL\r\nDESCRIPTION:This is an event reminder\r\nSUMMARY:Alarm notification\r\nATTENDEE:mailto:mortbringsli@gmail.com\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:c267d89fcded9e73e6266e304cbd5154a1ad5f74\r\nEND:VALARM\r\nEND:VEVENT\r\n', '2b5e3883b3d59787d1009f74c96c4b00ba1f3392\n50c9b0bbb8ff58d7a791570f9c6330cfbec25795\n1579257900\n1579259700\n1579266000\nBEGIN:VEVENT\r\nDTSTART;TZID=Europe/Oslo:20200117T121500\r\nDTEND;TZID=Europe/Oslo:20200117T140000\r\nDTSTAMP:20200107T184618Z\r\nUID:194-IMAA2021-1-1-1_2020_VÅR_IMAA2021-3@innsida.ntnu.no\r\nCREATED:20200107T184110Z\r\nDESCRIPTION:Forelesing/Øving\\nMatematiske metoder 2 for \r\n Dataingeniør\\n\\nS.B. Van Albada\\nBIDATA\r\nLAST-MODIFIED:20200107T184618Z\r\nLOCATION:C220 Ankeret (Hovedbygget)\r\nSEQUENCE:0\r\nSTATUS:CONFIRMED\r\nSUMMARY:IMAA2021 Forelesing/Øving\r\nTRANSP:OPAQUE\r\nX-EVOLUTION-CALDAV-ETAG:63714105978\r\nBEGIN:VALARM\r\nACTION:DISPLAY\r\nDESCRIPTION:This is an event reminder\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:50c9b0bbb8ff58d7a791570f9c6330cfbec25795\r\nEND:VALARM\r\nBEGIN:VALARM\r\nACTION:EMAIL\r\nDESCRIPTION:This is an event reminder\r\nSUMMARY:Alarm notification\r\nATTENDEE:mailto:mortbringsli@gmail.com\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:046cf0c7569621ded39db62ff8048f8079f0b41f\r\nEND:VALARM\r\nEND:VEVENT\r\n', '2b5e3883b3d59787d1009f74c96c4b00ba1f3392\nd414fd5eaf0f0df37a4cf5a6d31fb4bbfe90b329\n1579171500\n1579173300\n1579183200\nBEGIN:VEVENT\r\nDTSTART;TZID=Europe/Oslo:20200116T121500\r\nDTEND;TZID=Europe/Oslo:20200116T150000\r\nDTSTAMP:20200107T184618Z\r\nUID:194-IDATA2001-1-1-4_2020_VÅR_IDATA2001-3@innsida.ntnu.no\r\nCREATED:20200107T184110Z\r\nDESCRIPTION:Øving\\nProgrammering 2\\n\\nA. Styve\\nBIDATA\r\nLAST-MODIFIED:20200107T184618Z\r\nLOCATION:C220 Ankeret (Hovedbygget)\r\nSEQUENCE:0\r\nSTATUS:CONFIRMED\r\nSUMMARY:IDATA2001 Øving\r\nTRANSP:OPAQUE\r\nX-EVOLUTION-CALDAV-ETAG:63714105978\r\nBEGIN:VALARM\r\nACTION:DISPLAY\r\nDESCRIPTION:This is an event reminder\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:d414fd5eaf0f0df37a4cf5a6d31fb4bbfe90b329\r\nEND:VALARM\r\nBEGIN:VALARM\r\nACTION:EMAIL\r\nDESCRIPTION:This is an event reminder\r\nSUMMARY:Alarm notification\r\nATTENDEE:mailto:mortbringsli@gmail.com\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:3ebc69f29942a39a227cb3222236edda662b0310\r\nEND:VALARM\r\nEND:VEVENT\r\n', '2b5e3883b3d59787d1009f74c96c4b00ba1f3392\n530da5d05396dbed85fe8da62466dab987627984\n1579164300\n1579166100\n1579172400\nBEGIN:VEVENT\r\nDTSTART;TZID=Europe/Oslo:20200116T101500\r\nDTEND;TZID=Europe/Oslo:20200116T120000\r\nDTSTAMP:20200107T184618Z\r\nUID:194-IDATA2001-1-1-3_2020_VÅR_IDATA2001-3@innsida.ntnu.no\r\nCREATED:20200107T184110Z\r\nDESCRIPTION:Forelesning\\nProgrammering 2\\n\\nA. Styve\\nBIDATA\r\nLAST-MODIFIED:20200107T184618Z\r\nLOCATION:Kaupangen Ankeret (Hovedbygget)\r\nSEQUENCE:0\r\nSTATUS:CONFIRMED\r\nSUMMARY:IDATA2001 Forelesning\r\nTRANSP:OPAQUE\r\nX-EVOLUTION-CALDAV-ETAG:63714105978\r\nBEGIN:VALARM\r\nACTION:DISPLAY\r\nDESCRIPTION:This is an event reminder\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:530da5d05396dbed85fe8da62466dab987627984\r\nEND:VALARM\r\nBEGIN:VALARM\r\nACTION:EMAIL\r\nDESCRIPTION:This is an event reminder\r\nSUMMARY:Alarm notification\r\nATTENDEE:mailto:mortbringsli@gmail.com\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:685570e71209639da91ea4ca4ab74b9a623a9d88\r\nEND:VALARM\r\nEND:VEVENT\r\n', '2b5e3883b3d59787d1009f74c96c4b00ba1f3392\n92a2f9f1d6b26507ee8fbfe5a6b5c795eca81e03\n1579157100\n1579158900\n1579165200\nBEGIN:VEVENT\r\nDTSTART;TZID=Europe/Oslo:20200116T081500\r\nDTEND;TZID=Europe/Oslo:20200116T100000\r\nDTSTAMP:20200107T184618Z\r\nUID:194-IMAA2021-1-1-3_2020_VÅR_IMAA2021-3@innsida.ntnu.no\r\nCREATED:20200107T184110Z\r\nDESCRIPTION:Forelesing/Øving\\nMatematiske metoder 2 for \r\n Dataingeniør\\n\\nS.B. Van Albada\\nBIDATA\r\nLAST-MODIFIED:20200107T184618Z\r\nLOCATION:C220 Ankeret (Hovedbygget)\r\nSEQUENCE:0\r\nSTATUS:CONFIRMED\r\nSUMMARY:IMAA2021 Forelesing/Øving\r\nTRANSP:OPAQUE\r\nX-EVOLUTION-CALDAV-ETAG:63714105978\r\nBEGIN:VALARM\r\nACTION:DISPLAY\r\nDESCRIPTION:This is an event reminder\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:92a2f9f1d6b26507ee8fbfe5a6b5c795eca81e03\r\nEND:VALARM\r\nBEGIN:VALARM\r\nACTION:EMAIL\r\nDESCRIPTION:This is an event reminder\r\nSUMMARY:Alarm notification\r\nATTENDEE:mailto:mortbringsli@gmail.com\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:b46c25bf9c9c949229445223681a0e49580a0d01\r\nEND:VALARM\r\nEND:VEVENT\r\n', '2b5e3883b3d59787d1009f74c96c4b00ba1f3392\n5e138279ecf696dbb4a1eaced990c4e19d882605\n1579085100\n1579086900\n1579100400\nBEGIN:VEVENT\r\nDTSTART;TZID=Europe/Oslo:20200115T121500\r\nDTEND;TZID=Europe/Oslo:20200115T160000\r\nDTSTAMP:20200107T184618Z\r\nUID:194-IDATA1002-1-1-2_2020_VÅR_IDATA1002-3@innsida.ntnu.no\r\nCREATED:20200107T184110Z\r\nDESCRIPTION:Forelesning\\nSystemutvikling\\n\\nK.I. Tomren\\nBIDATA\r\nLAST-MODIFIED:20200107T184618Z\r\nLOCATION:C220 Ankeret (Hovedbygget)\r\nSEQUENCE:0\r\nSTATUS:CONFIRMED\r\nSUMMARY:IDATA1002 Forelesning\r\nTRANSP:OPAQUE\r\nX-EVOLUTION-CALDAV-ETAG:63714105978\r\nBEGIN:VALARM\r\nACTION:DISPLAY\r\nDESCRIPTION:This is an event reminder\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:5e138279ecf696dbb4a1eaced990c4e19d882605\r\nEND:VALARM\r\nBEGIN:VALARM\r\nACTION:EMAIL\r\nDESCRIPTION:This is an event reminder\r\nSUMMARY:Alarm notification\r\nATTENDEE:mailto:mortbringsli@gmail.com\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:0dacadfc71a0fe97110a9cb5504265eac54b5188\r\nEND:VALARM\r\nEND:VEVENT\r\n', '2b5e3883b3d59787d1009f74c96c4b00ba1f3392\n1d6548e40ae4e353e15853e337e1c31690bd1dd6\n1579070700\n1579072500\n1579086000\nBEGIN:VEVENT\r\nDTSTART;TZID=Europe/Oslo:20200115T081500\r\nDTEND;TZID=Europe/Oslo:20200115T120000\r\nDTSTAMP:20200107T184618Z\r\nUID:194-IMAA2021-1-1-2_2020_VÅR_IMAA2021-3@innsida.ntnu.no\r\nCREATED:20200107T184110Z\r\nDESCRIPTION:Forelesing/Øving\\nMatematiske metoder 2 for \r\n Dataingeniør\\n\\nS.B. Van Albada\\nBIDATA\r\nLAST-MODIFIED:20200107T184618Z\r\nLOCATION:C220 Ankeret (Hovedbygget)\r\nSEQUENCE:0\r\nSTATUS:CONFIRMED\r\nSUMMARY:IMAA2021 Forelesing/Øving\r\nTRANSP:OPAQUE\r\nX-EVOLUTION-CALDAV-ETAG:63714105978\r\nBEGIN:VALARM\r\nACTION:DISPLAY\r\nDESCRIPTION:This is an event reminder\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:1d6548e40ae4e353e15853e337e1c31690bd1dd6\r\nEND:VALARM\r\nBEGIN:VALARM\r\nACTION:EMAIL\r\nDESCRIPTION:This is an event reminder\r\nSUMMARY:Alarm notification\r\nATTENDEE:mailto:mortbringsli@gmail.com\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:c3a59e44ec2c714c3e0668973b2ffa3954450972\r\nEND:VALARM\r\nEND:VEVENT\r\n', '2b5e3883b3d59787d1009f74c96c4b00ba1f3392\nc0adb650f8943f75f67fc1c73700b650eb34e452\n1578998700\n1579000500\n1579010400\nBEGIN:VEVENT\r\nDTSTART;TZID=Europe/Oslo:20200114T121500\r\nDTEND;TZID=Europe/Oslo:20200114T150000\r\nDTSTAMP:20200107T184618Z\r\nUID:194-IDATA2001-1-1-2_2020_VÅR_IDATA2001-3@innsida.ntnu.no\r\nCREATED:20200107T184110Z\r\nDESCRIPTION:Øving\\nProgrammering 2\\n\\nA. Styve\\nBIDATA\r\nLAST-MODIFIED:20200107T184618Z\r\nLOCATION:C220 Ankeret (Hovedbygget)\r\nSEQUENCE:0\r\nSTATUS:CONFIRMED\r\nSUMMARY:IDATA2001 Øving\r\nTRANSP:OPAQUE\r\nX-EVOLUTION-CALDAV-ETAG:63714105978\r\nBEGIN:VALARM\r\nACTION:DISPLAY\r\nDESCRIPTION:This is an event reminder\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:c0adb650f8943f75f67fc1c73700b650eb34e452\r\nEND:VALARM\r\nBEGIN:VALARM\r\nACTION:EMAIL\r\nDESCRIPTION:This is an event reminder\r\nSUMMARY:Alarm notification\r\nATTENDEE:mailto:mortbringsli@gmail.com\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:addaac6f0d911c3b784fa038e02a68225b3474fa\r\nEND:VALARM\r\nEND:VEVENT\r\n', '2b5e3883b3d59787d1009f74c96c4b00ba1f3392\nf393aba1ce9a4cf21f3d4d533b6ce45ead29ace5\n1578984300\n1578986100\n1578992400\nBEGIN:VEVENT\r\nDTSTART;TZID=Europe/Oslo:20200114T081500\r\nDTEND;TZID=Europe/Oslo:20200114T100000\r\nDTSTAMP:20200107T184618Z\r\nUID:194-IDATA2001-1-1-1_2020_VÅR_IDATA2001-3@innsida.ntnu.no\r\nCREATED:20200107T184110Z\r\nDESCRIPTION:Forelesning\\nProgrammering 2\\n\\nA. Styve\\nBIDATA\r\nLAST-MODIFIED:20200107T184618Z\r\nLOCATION:Nørvasundet Ankeret (Hovedbygget)\r\nSEQUENCE:0\r\nSTATUS:CONFIRMED\r\nSUMMARY:IDATA2001 Forelesning\r\nTRANSP:OPAQUE\r\nX-EVOLUTION-CALDAV-ETAG:63714105978\r\nBEGIN:VALARM\r\nACTION:DISPLAY\r\nDESCRIPTION:This is an event reminder\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:f393aba1ce9a4cf21f3d4d533b6ce45ead29ace5\r\nEND:VALARM\r\nBEGIN:VALARM\r\nACTION:EMAIL\r\nDESCRIPTION:This is an event reminder\r\nSUMMARY:Alarm notification\r\nATTENDEE:mailto:mortbringsli@gmail.com\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:fc897a8b628fafedfdc3c33037e709a038b56b34\r\nEND:VALARM\r\nEND:VEVENT\r\n', '2b5e3883b3d59787d1009f74c96c4b00ba1f3392\nf8c58d7385df9deaf89d625c6a632c86d1650607\n1578919500\n1578921300\n1578927600\nBEGIN:VEVENT\r\nDTSTART;TZID=Europe/Oslo:20200113T141500\r\nDTEND;TZID=Europe/Oslo:20200113T160000\r\nDTSTAMP:20200107T184618Z\r\nUID:194-IDATA1002-1-1-1_2020_VÅR_IDATA1002-3@innsida.ntnu.no\r\nCREATED:20200107T184110Z\r\nDESCRIPTION:Forelesning\\nSystemutvikling\\n\\nK.I. Tomren\\nBIDATA\r\nLAST-MODIFIED:20200107T184618Z\r\nLOCATION:C220 Ankeret (Hovedbygget)\r\nSEQUENCE:0\r\nSTATUS:CONFIRMED\r\nSUMMARY:IDATA1002 Forelesning\r\nTRANSP:OPAQUE\r\nX-EVOLUTION-CALDAV-ETAG:63714105978\r\nBEGIN:VALARM\r\nACTION:DISPLAY\r\nDESCRIPTION:This is an event reminder\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:f8c58d7385df9deaf89d625c6a632c86d1650607\r\nEND:VALARM\r\nBEGIN:VALARM\r\nACTION:EMAIL\r\nDESCRIPTION:This is an event reminder\r\nSUMMARY:Alarm notification\r\nATTENDEE:mailto:mortbringsli@gmail.com\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:a67b1b05dff079ac4bcf986be1e5bc005c2ea5bb\r\nEND:VALARM\r\nEND:VEVENT\r\n', '2b5e3883b3d59787d1009f74c96c4b00ba1f3392\n039acdaab64c5e9ee77fda4d66fe192fac882903\n1578659400\n1578661200\n1578663000\nBEGIN:VEVENT\r\nDTSTART;TZID=Europe/Oslo:20200110T140000\r\nDTEND;TZID=Europe/Oslo:20200110T143000\r\nDTSTAMP:20191206T134523Z\r\nUID:\r\n 6crj8d9kchi3gb9l6hij0b9kcphm4b9pc9i6cbb668o3eob1c9j6cpho6g@google.com\r\nCREATED:20191206T134523Z\r\nX-LIC-ERROR;X-LIC-ERRORTYPE=VALUE-PARSE-ERROR:No value for DESCRIPTION \r\n property. Removing entire property:\r\nLAST-MODIFIED:20191206T134523Z\r\nX-LIC-ERROR;X-LIC-ERRORTYPE=VALUE-PARSE-ERROR:No value for LOCATION \r\n property. Removing entire property:\r\nSEQUENCE:0\r\nSTATUS:CONFIRMED\r\nSUMMARY:Hartelust\r\nTRANSP:OPAQUE\r\nX-EVOLUTION-CALDAV-ETAG:63711323123\r\nBEGIN:VALARM\r\nACTION:DISPLAY\r\nDESCRIPTION:This is an event reminder\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:039acdaab64c5e9ee77fda4d66fe192fac882903\r\nEND:VALARM\r\nBEGIN:VALARM\r\nACTION:EMAIL\r\nDESCRIPTION:This is an event reminder\r\nSUMMARY:Alarm notification\r\nATTENDEE:mailto:mortbringsli@gmail.com\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:7e95864faa1f64e95962ee2e6a859fd7268b79a9\r\nEND:VALARM\r\nEND:VEVENT\r\n', '2b5e3883b3d59787d1009f74c96c4b00ba1f3392\n153cc0b30a186fb209e19302b0aa384f4d800b99\n1578653100\n1578654900\n1578661200\nBEGIN:VEVENT\r\nDTSTART;TZID=Europe/Oslo:20200110T121500\r\nDTEND;TZID=Europe/Oslo:20200110T140000\r\nDTSTAMP:20200107T184618Z\r\nUID:194-IMAA2021-1-1-1_2020_VÅR_IMAA2021-2@innsida.ntnu.no\r\nCREATED:20200107T184110Z\r\nDESCRIPTION:Forelesing/Øving\\nMatematiske metoder 2 for \r\n Dataingeniør\\n\\nS.B. Van Albada\\nBIDATA\r\nLAST-MODIFIED:20200107T184618Z\r\nLOCATION:C220 Ankeret (Hovedbygget)\r\nSEQUENCE:0\r\nSTATUS:CONFIRMED\r\nSUMMARY:IMAA2021 Forelesing/Øving\r\nTRANSP:OPAQUE\r\nX-EVOLUTION-CALDAV-ETAG:63714105978\r\nBEGIN:VALARM\r\nACTION:DISPLAY\r\nDESCRIPTION:This is an event reminder\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:153cc0b30a186fb209e19302b0aa384f4d800b99\r\nEND:VALARM\r\nBEGIN:VALARM\r\nACTION:EMAIL\r\nDESCRIPTION:This is an event reminder\r\nSUMMARY:Alarm notification\r\nATTENDEE:mailto:mortbringsli@gmail.com\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:92cd2cd8e48821a2505418454e022a7ebdf617a2\r\nEND:VALARM\r\nEND:VEVENT\r\n', '2b5e3883b3d59787d1009f74c96c4b00ba1f3392\n1706f7cb491e36a22c5986ab7377c315de897af0\n1578566700\n1578568500\n1578578400\nBEGIN:VEVENT\r\nDTSTART;TZID=Europe/Oslo:20200109T121500\r\nDTEND;TZID=Europe/Oslo:20200109T150000\r\nDTSTAMP:20200107T184618Z\r\nUID:194-IDATA2001-1-1-4_2020_VÅR_IDATA2001-2@innsida.ntnu.no\r\nCREATED:20200107T184110Z\r\nDESCRIPTION:Øving\\nProgrammering 2\\n\\nA. Styve\\nBIDATA\r\nLAST-MODIFIED:20200107T184618Z\r\nLOCATION:C220 Ankeret (Hovedbygget)\r\nSEQUENCE:0\r\nSTATUS:CONFIRMED\r\nSUMMARY:IDATA2001 Øving\r\nTRANSP:OPAQUE\r\nX-EVOLUTION-CALDAV-ETAG:63714105978\r\nBEGIN:VALARM\r\nACTION:DISPLAY\r\nDESCRIPTION:This is an event reminder\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:1706f7cb491e36a22c5986ab7377c315de897af0\r\nEND:VALARM\r\nBEGIN:VALARM\r\nACTION:EMAIL\r\nDESCRIPTION:This is an event reminder\r\nSUMMARY:Alarm notification\r\nATTENDEE:mailto:mortbringsli@gmail.com\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:49b0dcefeec6d552ddd6defab2150cd8025075ba\r\nEND:VALARM\r\nEND:VEVENT\r\n', '2b5e3883b3d59787d1009f74c96c4b00ba1f3392\n1bbba98001b2858e26d2ca6c30c16ca013f03f3f\n1578559500\n1578561300\n1578567600\nBEGIN:VEVENT\r\nDTSTART;TZID=Europe/Oslo:20200109T101500\r\nDTEND;TZID=Europe/Oslo:20200109T120000\r\nDTSTAMP:20200107T184618Z\r\nUID:194-IDATA2001-1-1-3_2020_VÅR_IDATA2001-2@innsida.ntnu.no\r\nCREATED:20200107T184110Z\r\nDESCRIPTION:Forelesning\\nProgrammering 2\\n\\nA. Styve\\nBIDATA\r\nLAST-MODIFIED:20200107T184618Z\r\nLOCATION:Kaupangen Ankeret (Hovedbygget)\r\nSEQUENCE:0\r\nSTATUS:CONFIRMED\r\nSUMMARY:IDATA2001 Forelesning\r\nTRANSP:OPAQUE\r\nX-EVOLUTION-CALDAV-ETAG:63714105978\r\nBEGIN:VALARM\r\nACTION:DISPLAY\r\nDESCRIPTION:This is an event reminder\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:1bbba98001b2858e26d2ca6c30c16ca013f03f3f\r\nEND:VALARM\r\nBEGIN:VALARM\r\nACTION:EMAIL\r\nDESCRIPTION:This is an event reminder\r\nSUMMARY:Alarm notification\r\nATTENDEE:mailto:mortbringsli@gmail.com\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:adea6c31b396f035f56aaf0ce70675cdb7461eb3\r\nEND:VALARM\r\nEND:VEVENT\r\n', '2b5e3883b3d59787d1009f74c96c4b00ba1f3392\n2e0ea3b96783e71522bf1903d439cb30c829606a\n1578552300\n1578554100\n1578560400\nBEGIN:VEVENT\r\nDTSTART;TZID=Europe/Oslo:20200109T081500\r\nDTEND;TZID=Europe/Oslo:20200109T100000\r\nDTSTAMP:20200107T184618Z\r\nUID:194-IMAA2021-1-1-3_2020_VÅR_IMAA2021-2@innsida.ntnu.no\r\nCREATED:20200107T184110Z\r\nDESCRIPTION:Forelesing/Øving\\nMatematiske metoder 2 for \r\n Dataingeniør\\n\\nS.B. Van Albada\\nBIDATA\r\nLAST-MODIFIED:20200107T184618Z\r\nLOCATION:C220 Ankeret (Hovedbygget)\r\nSEQUENCE:0\r\nSTATUS:CONFIRMED\r\nSUMMARY:IMAA2021 Forelesing/Øving\r\nTRANSP:OPAQUE\r\nX-EVOLUTION-CALDAV-ETAG:63714105978\r\nBEGIN:VALARM\r\nACTION:DISPLAY\r\nDESCRIPTION:This is an event reminder\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:2e0ea3b96783e71522bf1903d439cb30c829606a\r\nEND:VALARM\r\nBEGIN:VALARM\r\nACTION:EMAIL\r\nDESCRIPTION:This is an event reminder\r\nSUMMARY:Alarm notification\r\nATTENDEE:mailto:mortbringsli@gmail.com\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:9a9d948ec2241b3a190333d9f7d213b30ebd343f\r\nEND:VALARM\r\nEND:VEVENT\r\n', '2b5e3883b3d59787d1009f74c96c4b00ba1f3392\n00e12d0c759665f39a37d46044ae1ca9622879b9\n1578480300\n1578482100\n1578495600\nBEGIN:VEVENT\r\nDTSTART;TZID=Europe/Oslo:20200108T121500\r\nDTEND;TZID=Europe/Oslo:20200108T160000\r\nDTSTAMP:20200107T184618Z\r\nUID:194-IDATA1002-1-1-2_2020_VÅR_IDATA1002-2@innsida.ntnu.no\r\nCREATED:20200107T184110Z\r\nDESCRIPTION:Forelesning\\nSystemutvikling\\n\\nK.I. Tomren\\nBIDATA\r\nLAST-MODIFIED:20200107T184618Z\r\nLOCATION:C220 Ankeret (Hovedbygget)\r\nSEQUENCE:0\r\nSTATUS:CONFIRMED\r\nSUMMARY:IDATA1002 Forelesning\r\nTRANSP:OPAQUE\r\nX-EVOLUTION-CALDAV-ETAG:63714105978\r\nBEGIN:VALARM\r\nACTION:DISPLAY\r\nDESCRIPTION:This is an event reminder\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:00e12d0c759665f39a37d46044ae1ca9622879b9\r\nEND:VALARM\r\nBEGIN:VALARM\r\nACTION:EMAIL\r\nDESCRIPTION:This is an event reminder\r\nSUMMARY:Alarm notification\r\nATTENDEE:mailto:mortbringsli@gmail.com\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:a5cc7b4a0695f505bc514e08b2c42a715afb1145\r\nEND:VALARM\r\nEND:VEVENT\r\n', '2b5e3883b3d59787d1009f74c96c4b00ba1f3392\n4dc23d8b13e9599d369ff2df3c892d2e0f567900\n1578465900\n1578467700\n1578481200\nBEGIN:VEVENT\r\nDTSTART;TZID=Europe/Oslo:20200108T081500\r\nDTEND;TZID=Europe/Oslo:20200108T120000\r\nDTSTAMP:20200107T184618Z\r\nUID:194-IMAA2021-1-1-2_2020_VÅR_IMAA2021-2@innsida.ntnu.no\r\nCREATED:20200107T184110Z\r\nDESCRIPTION:Forelesing/Øving\\nMatematiske metoder 2 for \r\n Dataingeniør\\n\\nS.B. Van Albada\\nBIDATA\r\nLAST-MODIFIED:20200107T184618Z\r\nLOCATION:C220 Ankeret (Hovedbygget)\r\nSEQUENCE:0\r\nSTATUS:CONFIRMED\r\nSUMMARY:IMAA2021 Forelesing/Øving\r\nTRANSP:OPAQUE\r\nX-EVOLUTION-CALDAV-ETAG:63714105978\r\nBEGIN:VALARM\r\nACTION:DISPLAY\r\nDESCRIPTION:This is an event reminder\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:4dc23d8b13e9599d369ff2df3c892d2e0f567900\r\nEND:VALARM\r\nBEGIN:VALARM\r\nACTION:EMAIL\r\nDESCRIPTION:This is an event reminder\r\nSUMMARY:Alarm notification\r\nATTENDEE:mailto:mortbringsli@gmail.com\r\nTRIGGER:-PT30M\r\nX-EVOLUTION-ALARM-UID:9f7da34ecf567de5cfad744e6fd39651b827b5de\r\nEND:VALARM\r\nEND:VEVENT\r\n']
+
+[gnome/file-roller/listing]
+list-mode='as-folder'
+name-column-width=386
+show-path=false
+sort-method='name'
+sort-type='descending'
+
+[gnome/file-roller/ui]
+sidebar-width=200
+window-height=447
+window-width=625
+
+[gnome/gedit/plugins]
+active-plugins=['docinfo', 'spell', 'quickhighlight', 'pythonconsole', 'modelines', 'filebrowser', 'time']
+
+[gnome/gedit/plugins/filebrowser]
+root='file:///'
+tree-view=true
+virtual-root='file:///home/mort/git/dotfiles/pascaline/20200225-dconf_dump'
+
+[gnome/gedit/preferences/editor]
+auto-indent=true
+auto-save=true
+auto-save-interval=uint32 1
+background-pattern='none'
+bracket-matching=true
+create-backup-copy=true
+display-line-numbers=true
+display-overview-map=true
+highlight-current-line=true
+insert-spaces=true
+scheme='pop-dark'
+tabs-size=uint32 4
+wrap-last-split-mode='word'
+
+[gnome/gedit/preferences/ui]
+bottom-panel-visible=true
+show-tabs-mode='auto'
+side-panel-visible=false
+
+[gnome/gedit/state/history-entry]
+search-for-entry=['ð\u009f\u0098\u008e', 'ð\u009f\u0098\u0082', 'ð\u009f\u0092©', 'ð\u009f¥\u0083', 'ð\u009f¥\u0083ð\u009f¥\u0083ð\u009f¥\u0083', 'ð\u009f¤£', 'ð\u009f\u008d»', 'ð\u009f\u0094¥']
+
+[gnome/gedit/state/window]
+bottom-panel-active-page='GeditPythonConsolePanel'
+bottom-panel-size=46
+side-panel-active-page='GeditWindowDocumentsPanel'
+side-panel-size=200
+size=(960, 558)
+state=43908
+
+[gnome/gnome-system-monitor]
+cpu-colors=[(uint32 0, '#FF6E00'), (1, '#CB0C29'), (2, '#49A835'), (3, '#2D7DB3'), (4, '#f25915e815e8'), (5, '#f25915e815e8'), (6, '#f25915e815e8'), (7, '#f25915e815e8'), (8, '#f25915e815e8'), (9, '#f25915e815e8'), (10, '#f25915e815e8'), (11, '#f25915e815e8'), (12, '#f25915e815e8'), (13, '#f25915e815e8'), (14, '#f25915e815e8'), (15, '#f25915e815e8')]
+current-tab='processes'
+maximized=true
+show-dependencies=false
+show-whose-processes='user'
+window-state=(1920, 1006, 0, 27)
+
+[gnome/gnome-system-monitor/disktreenew]
+col-6-visible=true
+col-6-width=0
+
+[gnome/gnome-system-monitor/proctree]
+col-0-visible=true
+col-0-width=316
+col-10-visible=true
+col-10-width=161
+col-14-visible=true
+col-14-width=1049
+col-21-visible=true
+col-21-width=59
+col-9-visible=true
+col-9-width=80
+columns-order=[0, 1, 2, 3, 4, 6, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26]
+sort-col=10
+sort-order=0
+
+[gnome/mutter]
+workspaces-only-on-primary=false
+
+[gnome/mutter/wayland/keybindings]
+restore-shortcuts=@as []
+
+[gnome/nautilus/compression]
+default-compression-format='zip'
+
+[gnome/nautilus/preferences]
+default-folder-viewer='icon-view'
+search-filter-time-type='last_modified'
+search-view='list-view'
+
+[gnome/nautilus/window-state]
+initial-size=(871, 563)
+maximized=false
+
+[gnome/nm-applet/eap/3468bdb9-e8e5-4d74-9fed-a6f71f54d34c]
+ignore-ca-cert=false
+ignore-phase2-ca-cert=false
+
+[gnome/nm-applet/eap/bbcb3cd1-4625-3d67-a5ff-7df99e4ee0ad]
+ignore-ca-cert=false
+ignore-phase2-ca-cert=false
+
+[gnome/orca]
+active-profile=['Default', 'default']
+
+[gnome/power-manager]
+info-history-type='charge'
+info-last-device='/org/freedesktop/UPower/devices/mouse_hidpp_battery_0'
+info-page-number=2
+info-stats-type='discharge-accuracy'
+
+[gnome/settings-daemon/plugins/media-keys]
+custom-keybindings=['/org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom0/', '/org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom1/', '/org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom2/', '/org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom3/', '/org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom4/']
+next=['AudioNext']
+pause=@as []
+play=['AudioPlay']
+previous=['AudioPrev']
+stop=['AudioStop']
+volume-down=['AudioLowerVolume']
+volume-mute=['AudioMute']
+volume-up=['AudioRaiseVolume']
+
+[gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom0]
+binding='Pause'
+command='btswitch'
+name='BT headset mode switch'
+
+[gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom1]
+binding='<Primary><Alt><Super>1'
+command='xrandr --output HDMI-0 --auto --rotate normal --primary --output DP-0 --off --output DP-2 --off'
+name='Just TV'
+
+[gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom2]
+binding='<Primary><Alt><Super>3'
+command='xrandr --output DP-2 --mode 2560x1440 --pos 0x0 --rate 144 --output DP-0 --mode 1920x1080 --pos 2560x-220 --rotate left --output HDMI-0 --mode 1920x1080 --pos 3640x0'
+name='All 3 screens'
+
+[gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom3]
+binding='<Primary><Alt><Super>2'
+command='xrandr --output DP-2 --mode 2560x1440 --pos 0x0 --rate 144 --output DP-0 --mode 1920x1080 --pos 2560x-220 --rotate left --output HDMI-0 --off'
+name='Desk Only'
+
+[gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom4]
+binding='<Primary><Alt><Super>4'
+command='xrandr --output DP-2 --mode 2560x1440 --pos 0x0 --rate 144 --primary --output DP-0 --off --output HDMI-0 --off'
+name='Gsync'
+
+[gnome/settings-daemon/plugins/power]
+power-button-action='suspend'
+
+[gnome/settings-daemon/plugins/xsettings]
+antialiasing='grayscale'
+hinting='slight'
+
+[gnome/shell]
+app-picker-view=uint32 1
+command-history=['rclone mount gdrive: ~/gdrive/']
+disable-user-extensions=false
+enabled-extensions=['always-show-workspaces@system76.com', 'batteryiconfix@kylecorry31.github.io', 'donotdisturb@kylecorry31.github.io', 'pop-shop-details@system76.com', 'pop-suspend-button@system76.com', 'system76-power@system76.com', 'multi-monitors-add-on@spin83', 'workspace-indicator@gnome-shell-extensions.gcampax.github.com', 'places-menu@gnome-shell-extensions.gcampax.github.com', 'launch-new-instance@gnome-shell-extensions.gcampax.github.com', 'cpupower@mko-sl.de', 'user-theme@gnome-shell-extensions.gcampax.github.com', 'sound-output-device-chooser@kgshank.net', 'gTile@vibou', 'display-profile-manager@bodedejavu.github.com', 'appindicatorsupport@rgcjonas.gmail.com']
+favorite-apps=['intellij-idea-ultimate_intellij-idea-ultimate.desktop', 'firefox.desktop', 'org.gnome.Nautilus.desktop', 'net.lutris.Lutris.desktop', 'steam.desktop', 'slack.desktop', 'discord_discord.desktop', 'caprine_caprine.desktop', 'org.gnome.tweaks.desktop', 'gnome-system-monitor.desktop', 'jstest-gtk.desktop', 'sc-controller.desktop']
+had-bluetooth-devices-setup=true
+
+[gnome/shell/extensions/cpupower]
+profiles=[(0, 10, false, 'Energy Saver', '2637906999'), (0, 30, false, 'Quiet', '2039532059'), (20, 80, true, 'Multimedia', '663943160'), (50, 100, true, 'High Performance', '3710462008')]
+show-freq-in-taskbar=true
+taskbar-freq-unit-ghz=true
+
+[gnome/shell/extensions/dash-to-dock]
+apply-custom-theme=false
+background-color='#131313'
+background-opacity=0.57999999999999996
+click-action='previews'
+custom-background-color=false
+custom-theme-shrink=false
+customize-alphas=true
+dash-max-icon-size=32
+dock-fixed=false
+dock-position='LEFT'
+extend-height=false
+force-straight-corner=false
+height-fraction=0.90000000000000002
+hot-keys=false
+icon-size-fixed=false
+intellihide=true
+intellihide-mode='ALL_WINDOWS'
+isolate-workspaces=true
+max-alpha=0.48999999999999999
+middle-click-action='launch'
+min-alpha=0.0
+multi-monitor=false
+preferred-monitor=0
+pressure-threshold=250.0
+require-pressure-to-show=true
+running-indicator-style='DASHES'
+scroll-action='switch-workspace'
+shift-click-action='minimize'
+shift-middle-click-action='quit'
+show-apps-at-top=false
+show-favorites=false
+show-mounts=false
+show-trash=false
+transparency-mode='DYNAMIC'
+
+[gnome/shell/extensions/gtile]
+global-presets=false
+grid-sizes='20x10,8x6,6x4,4x4'
+show-toggle-tiling-alt=['<Primary><Shift>Return']
+window-margin=4
+
+[gnome/shell/extensions/hidetopbar]
+hot-corner=true
+mouse-sensitive=true
+mouse-triggers-overview=true
+
+[gnome/shell/extensions/kylecorry31-do-not-disturb]
+do-not-disturb=true
+
+[gnome/shell/extensions/multi-monitors-add-on]
+available-indicators=['workspace-indicator', 'places-menu', 'GTileStatusButton']
+show-thumbnails-slider=true
+
+[gnome/shell/keybindings]
+toggle-application-view=['<Super>space']
+
+[gnome/shell/overrides]
+workspaces-only-on-primary=false
+
+[gtk/settings/color-chooser]
+custom-colors=[(0.78431372549019607, 0.0, 0.011764705882352941, 1.0), (0.074509803921568626, 0.074509803921568626, 0.074509803921568626, 1.0)]
+selected-color=(true, 0.96078431372549022, 0.47450980392156861, 0.0, 1.0)
+
+[gtk/settings/file-chooser]
+clock-format='24h'
+date-format='with-time'
+location-mode='path-bar'
+show-hidden=false
+show-size-column=true
+show-type-column=true
+sidebar-width=203
+sort-column='modified'
+sort-directories-first=true
+sort-order='descending'
+type-format='category'
+window-position=(718, 707)
+window-size=(1124, 571)

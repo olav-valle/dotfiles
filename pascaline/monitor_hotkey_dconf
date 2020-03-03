@@ -1,0 +1,24 @@
+[custom0]
+binding='Pause'
+command='btswitch'
+name='BT headset mode switch'
+
+[custom1]
+binding='<Primary><Alt><Super>1'
+command='xrandr --output HDMI-0 --auto --rotate normal --primary --output DP-0 --off --output DP-2 --off'
+name='Just TV'
+
+[custom2]
+binding='<Primary><Alt><Super>3'
+command='xrandr --output DP-2 --mode 2560x1440 --pos 0x0 --rate 144 --output DP-0 --mode 1920x1080 --pos 2560x-220 --rotate left --output HDMI-0 --mode 1920x1080 --pos 3640x0'
+name='All 3 screens'
+
+[custom3]
+binding='<Primary><Alt><Super>2'
+command='xrandr --output DP-2 --mode 2560x1440 --pos 0x0 --rate 144 --output DP-0 --mode 1920x1080 --pos 2560x-220 --rotate left --output HDMI-0 --off'
+name='Desk Only'
+
+[custom4]
+binding='<Primary><Alt><Super>4'
+command='xrandr --output DP-2 --mode 2560x1440 --pos 0x0 --rate 144 --primary --output DP-0 --off --output HDMI-0 --off'
+name='Gsync'
