@@ -4,7 +4,7 @@
 
  #installers 
 ./aptinstall.sh
-./gamestuff.sh
+#./gamestuff.sh
 ./snapinstall.sh
 
  #system setup

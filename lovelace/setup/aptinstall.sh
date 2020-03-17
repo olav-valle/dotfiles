@@ -49,6 +49,11 @@ install openjdk-13-jre # java 13 runtime
 install openjdk-13-jdk # java 13 dev kit
 install openjdk-13-doc # java 13 doc
 install openjdk-13-dbg # java 13 debugging symbols
+install openjdk-8-jre # java 8 runtime
+install openjdk-8-jdk # java 8 dev kit
+install openjdk-8-doc # java 8 doc
+install openjdk-8-dbg # java 8 debugging symbols
+
 #intellij is installed through snap
 
 #other app/lib managers
