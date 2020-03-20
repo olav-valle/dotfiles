@@ -23,6 +23,7 @@ install gparted
 install neovim
 install exfat-utils
 install i8kutils
+#install zsh
 # install openvpn
 
 #utilities
@@ -38,6 +39,7 @@ install gnome-tweaks
 
 #dev tools
 install gitkraken
+install git-flow
 
 #python and pip
 install python3-venv
@@ -53,7 +55,6 @@ install openjdk-8-jre # java 8 runtime
 install openjdk-8-jdk # java 8 dev kit
 install openjdk-8-doc # java 8 doc
 install openjdk-8-dbg # java 8 debugging symbols
-
 #intellij is installed through snap
 
 #other app/lib managers

@@ -1,3 +1,8 @@
+/* 
+	Set 'toolkit.legacyUserProfileCustomizations.stylesheets' to True in about:config
+	to enable the stylesheet.
+*/
+
 /* hides the native tabs */
 #main-window[tabsintitlebar="true"]:not([extradragspace="true"]) #TabsToolbar > .toolbar-items {
   opacity: 0;
@@ -10,8 +15,8 @@
 }
 
 /*
-   Override hiding of Bookmarks Toolbar in F11 full screen
-   when you roll down the tabs/main toolbar 
+	Override hiding of Bookmarks Toolbar in F11 full screen
+	when you roll down the tabs/main toolbar 
 */
 #navigator-toolbox[inFullscreen="true"] #PersonalToolbar {
   visibility: unset !important;

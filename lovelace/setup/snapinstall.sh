@@ -23,7 +23,7 @@ function snapInst {
 }
 
 snapInst discord
-snapInst messengerport
-#snapInst caprine #uncomment if messengerport starts to suck
+#snapInst messengerport
+snapInst caprine #uncomment if messengerport starts to suck
 snapInst intellij-idea-ultimate --classic
 snapInst pycharm-professional --classic
