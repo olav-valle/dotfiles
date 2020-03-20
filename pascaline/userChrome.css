@@ -1,0 +1,10 @@
+/* hides the native tabs */
+#main-window[tabsintitlebar="true"]:not([extradragspace="true"]) #TabsToolbar > .toolbar-items {
+  opacity: 0;
+  pointer-events: none;
+}
+
+/* hides sidebar header */
+#sidebar-header {
+	visibility: collapse  !important;
+}
