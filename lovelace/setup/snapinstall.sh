@@ -27,3 +27,4 @@ snapInst discord
 snapInst caprine #uncomment if messengerport starts to suck
 snapInst intellij-idea-ultimate --classic
 snapInst pycharm-professional --classic
+snapInst Slack
