@@ -1,0 +1,6 @@
+#! /usr/bin/bash
+# Script that adds an entry to a memo doc 
+echo "" >> ~/memo.txt
+date >> ~/memo.txt
+echo " $1" >> ~/memo.txt
+echo "New entry: $1"
