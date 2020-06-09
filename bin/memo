@@ -1,6 +1,19 @@
 #! /usr/bin/bash
 # Quickly take memos from the command line. 
 # Saves inputs in $HOME/memo.txt by default.
+# 
+# Author: Olav Valle
+# Date: 20200609
+
+# TODO change -e option to add date to document before opening in editor
+
+# TODO add print/read option to show last handfull of entries
+# Maybe use tail?
+
+# TODO add remove last entry option?
+
+# TODO Markdown?
+
 ###
 ### Script variables
 ###
@@ -15,6 +28,17 @@ MFILE=memo.txt # Memo file name.
 ###
 
 #
+# Print the last 3 entries of memo.txt
+#
+
+function print_lines() {
+	if [[ -e $MEMO ]]; then
+		echo "Last 3 entries of $MFILE:"
+		tail -n 9 $MEMO
+	fi
+}
+
+#
 # Writes the user input string to $MEMO.
 # Creates a new memo.txt if one does not exist.
 #
@@ -25,7 +49,8 @@ function write_memo() {
 	fi
 
 	printf %b "$(date) \n \t $* \n \n" >> $MEMO
-	echo "New entry: $*"
+	echo "New entry:"
+	tail --lines=3 $MEMO
 }
 
 #
@@ -86,6 +111,7 @@ function print_help() {
 	printf %b "\t-h\t\tDisplay this help dialog.\n"
 	printf %b "\t-e\t\tOpens memo.txt in vim for editing.\n"
 	printf %b "\t-n\t\tCreates a new memo.txt file.\n\t\t\tTakes a backup of current memo.txt, named old_memo_YYYYMMDD.txt.\n"
+	printf %b "\t-l\t\tLists the last 3 entries of $MFILE.\n"
 	
 	printf %b "\nExample: \n \t memo Improve help dialog for memo script. \n\n"
 	printf %b "Result in memo.txt:\n\n"
@@ -102,6 +128,19 @@ function end_script() {
 		rm $BAK
 	fi
 	exit 0
+}
+
+
+#
+# Opens memo.txt in editor, first appending a timestamp.
+#
+
+function open_with_editor() {
+	if [[ -e $MEMO ]]; then
+		printf %b "$(date)\n\t" >> $MEMO
+		edit $MEMO
+	fi
+
 }
 
 #
@@ -125,9 +164,10 @@ function main() {
 # if there is exactly one argument, and it starts with "-"
 	elif [[ $# -eq 1 ]] && [[ $1 =~ ^- ]]; then 
 		case $1 in
-		-e) vim $MEMO;; # Opens $MEMO in vim for editing
+		-e) open_with_editor;; # Opens $MEMO in editor for editing
 		-n) new_memo_file;; # Makes a new memo file, backing up old one first.
 		-h) print_help;;
+		-l) print_lines;; 
 		esac
 	end_script
 
