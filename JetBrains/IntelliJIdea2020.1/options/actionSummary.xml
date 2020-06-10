@@ -1,0 +1,150 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <data>
+      <entry key="$Undo">
+        <ActionSummary times="2" last="1589824384234" />
+      </entry>
+      <entry key="ActivateFavoritesToolWindow">
+        <ActionSummary times="3" last="1589823987978" />
+      </entry>
+      <entry key="ActivateProjectToolWindow">
+        <ActionSummary times="10" last="1589824216417" />
+      </entry>
+      <entry key="ActivateStructureToolWindow">
+        <ActionSummary times="6" last="1589824215840" />
+      </entry>
+      <entry key="BraceOrQuoteOut">
+        <ActionSummary times="2" last="1589824645679" />
+      </entry>
+      <entry key="EditorBackSpace">
+        <ActionSummary times="39" last="1589824752822" />
+      </entry>
+      <entry key="EditorChooseLookupItem">
+        <ActionSummary times="3" last="1589824511835" />
+      </entry>
+      <entry key="EditorChooseLookupItemReplace">
+        <ActionSummary times="2" last="1589824672006" />
+      </entry>
+      <entry key="EditorDeleteToWordStart">
+        <ActionSummary times="13" last="1589824714319" />
+      </entry>
+      <entry key="EditorDown">
+        <ActionSummary times="59" last="1589824750365" />
+      </entry>
+      <entry key="EditorDownWithSelection">
+        <ActionSummary times="5" last="1589824681697" />
+      </entry>
+      <entry key="EditorEnter">
+        <ActionSummary times="19" last="1589824753438" />
+      </entry>
+      <entry key="EditorEscape">
+        <ActionSummary times="1" last="1589824066530" />
+      </entry>
+      <entry key="EditorLeft">
+        <ActionSummary times="3" last="1589824441581" />
+      </entry>
+      <entry key="EditorNextWord">
+        <ActionSummary times="8" last="1589824751316" />
+      </entry>
+      <entry key="EditorPreviousWord">
+        <ActionSummary times="12" last="1589824751825" />
+      </entry>
+      <entry key="EditorRight">
+        <ActionSummary times="4" last="1589824751018" />
+      </entry>
+      <entry key="EditorScrollDown">
+        <ActionSummary times="3" last="1589824738314" />
+      </entry>
+      <entry key="EditorScrollUp">
+        <ActionSummary times="2" last="1589824687031" />
+      </entry>
+      <entry key="EditorSplitLine">
+        <ActionSummary times="1" last="1589824382845" />
+      </entry>
+      <entry key="EditorStartNewLine">
+        <ActionSummary times="2" last="1589824380491" />
+      </entry>
+      <entry key="EditorStartNewLineBefore">
+        <ActionSummary times="1" last="1589824385451" />
+      </entry>
+      <entry key="EditorUp">
+        <ActionSummary times="87" last="1589824750750" />
+      </entry>
+      <entry key="EditorUpWithSelection">
+        <ActionSummary times="1" last="1589824682026" />
+      </entry>
+      <entry key="MethodDown">
+        <ActionSummary times="2" last="1589824711188" />
+      </entry>
+      <entry key="MoveStatementDown">
+        <ActionSummary times="1" last="1589824682775" />
+      </entry>
+      <entry key="NewClass">
+        <ActionSummary times="2" last="1589824490694" />
+      </entry>
+      <entry key="NextTemplateVariable">
+        <ActionSummary times="1" last="1589824515534" />
+      </entry>
+      <entry key="SearchEverywhere">
+        <ActionSummary times="2" last="1589824489543" />
+      </entry>
+      <entry key="ShowIntentionActions">
+        <ActionSummary times="1" last="1589824441782" />
+      </entry>
+      <entry key="ShowSettings">
+        <ActionSummary times="2" last="1589824127935" />
+      </entry>
+      <entry key="ToggleBookmark">
+        <ActionSummary times="1" last="1589824080771" />
+      </entry>
+      <entry key="ToggleFullScreen">
+        <ActionSummary times="8" last="1589824694726" />
+      </entry>
+      <entry key="ToggleZenMode">
+        <ActionSummary times="6" last="1589824222537" />
+      </entry>
+      <entry key="Tree-selectChild">
+        <ActionSummary times="10" last="1589824462829" />
+      </entry>
+      <entry key="Tree-selectNext">
+        <ActionSummary times="13" last="1589824461946" />
+      </entry>
+      <entry key="Tree-selectNextExtendSelection">
+        <ActionSummary times="1" last="1589824450701" />
+      </entry>
+      <entry key="Tree-selectParent">
+        <ActionSummary times="3" last="1589824463183" />
+      </entry>
+      <entry key="Tree-selectPrevious">
+        <ActionSummary times="10" last="1589824462535" />
+      </entry>
+      <entry key="WelcomeScreen.Configure.Import">
+        <ActionSummary times="1" last="1589823791066" />
+      </entry>
+      <entry key="WelcomeScreen.CreateNewProject">
+        <ActionSummary times="1" last="1589823808216" />
+      </entry>
+      <entry key="com.intellij.cloudConfig.StatusBarInfoManager$InfoComponent$1">
+        <ActionSummary times="1" last="1589824140487" />
+      </entry>
+      <entry key="com.intellij.ide.actions.ToolWindowViewModeAction">
+        <ActionSummary times="4" last="1589824113853" />
+      </entry>
+      <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
+        <ActionSummary times="2" last="1589824490681" />
+      </entry>
+      <entry key="com.intellij.openapi.wm.impl.ToolWindowHeader$ShowOptionsAction">
+        <ActionSummary times="8" last="1589824106197" />
+      </entry>
+      <entry key="com.intellij.openapi.wm.impl.welcomeScreen.FlatWelcomeFrame$FlatWelcomeScreen$5">
+        <ActionSummary times="3" last="1589823796210" />
+      </entry>
+      <entry key="com.intellij.ui.content.tabs.TabbedContentAction$MyNextTabAction">
+        <ActionSummary times="2" last="1589823976410" />
+      </entry>
+      <entry key="com.intellij.ui.content.tabs.TabbedContentAction$MyPreviousTabAction">
+        <ActionSummary times="2" last="1589823976057" />
+      </entry>
+    </data>
+  </component>
+</application>

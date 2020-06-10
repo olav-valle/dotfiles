@@ -1,0 +1,75 @@
+[global_config]
+  geometry_hinting = True
+  borderless = True
+  inactive_color_offset = 0.9932258064516129
+[keybindings]
+  new_tab = <Shift><Alt>t
+  cycle_next = None
+  cycle_prev = None
+  go_next = <Alt>w
+  go_prev = <Alt>e
+  go_up = <Alt>k
+  go_down = <Alt>j
+  go_left = <Alt>h
+  go_right = <Alt>l
+  rotate_cw = <Alt>r
+  rotate_ccw = <Shift><Alt>r
+  split_horiz = <Shift><Alt>o
+  split_vert = <Shift><Alt>e
+  close_term = <Shift><Alt>q
+  copy = <Primary><Shift>c
+  page_up = Page_Up
+  page_down = Page_Down
+  page_up_half = <Primary>Page_Up
+  page_down_half = <Primary>Page_Down
+  line_up = <Primary>Up
+  line_down = <Primary>Down
+  close_window = None
+  resize_up = <Shift><Alt>k
+  resize_down = <Shift><Alt>j
+  resize_left = <Shift><Alt>h
+  resize_right = <Shift><Alt>l
+  next_tab = None
+  prev_tab = None
+  switch_to_tab_1 = <Alt>1
+  switch_to_tab_2 = <Alt>3
+  switch_to_tab_3 = <Alt>3
+  switch_to_tab_4 = <Alt>4
+  switch_to_tab_5 = <Alt>5
+  switch_to_tab_6 = <Alt>6
+  switch_to_tab_7 = <Alt>7
+  switch_to_tab_8 = <Alt>8
+  switch_to_tab_9 = <Alt>9
+  switch_to_tab_10 = <Alt>2
+  hide_window = None
+  group_all = None
+  group_tab = None
+  new_terminator = None
+  broadcast_off = None
+  broadcast_all = None
+  insert_number = <Primary><Alt>1
+  insert_padded = <Primary><Alt>0
+  edit_window_title = None
+  edit_tab_title = None
+  edit_terminal_title = None
+  layout_launcher = None
+  help = None
+[profiles]
+  [[default]]
+    background_color = "#131313"
+    cursor_color = "#aaaaaa"
+    font = Fira Mono Bold 11
+    foreground_color = "#8ae234"
+    show_titlebar = False
+    scrollback_infinite = True
+    palette = "#000000:#ef2929:#f57900:#aa5500:#729fcf:#aa00aa:#00aaaa:#aaaaaa:#555555:#ff5555:#fcaf3e:#ffff55:#3465a4:#ff55ff:#55ffff:#ffffff"
+    use_system_font = False
+[layouts]
+  [[default]]
+    [[[window0]]]
+      type = Window
+      parent = ""
+    [[[child1]]]
+      type = Terminal
+      parent = window0
+[plugins]

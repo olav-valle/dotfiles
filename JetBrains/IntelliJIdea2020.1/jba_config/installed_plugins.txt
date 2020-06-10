@@ -1,0 +1,9 @@
+com.jetbrains.space
+Gitflow
+org.sonarlint.idea
+CheckStyle-IDEA
+IdeaVIM
+zielu.gittoolbox
+net.seesharpsoft.intellij.plugins.csv
+org.pmesmeur.sketchit
+PlantUML integration

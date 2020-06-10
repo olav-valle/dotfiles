@@ -1,0 +1,17 @@
+<templateSet group="Java">
+  <template name="///" value="/**" shortcut="ENTER" description="adds Javadoc layout" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="fun" value="/**&#10; * todo: javadoc&#10; */&#10;$modifier$ $returnType$ $methodName$($paramType$ $param$) {&#10;    $END$&#10;}" shortcut="ENTER" description="method declaration template" toReformat="false" toShortenFQNames="true">
+    <variable name="modifier" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="returnType" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="methodName" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="paramType" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="param" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
