@@ -2,6 +2,7 @@
   geometry_hinting = True
   borderless = True
   inactive_color_offset = 0.9932258064516128
+  suppress_multiple_term_dialog = True
 [keybindings]
   new_tab = <Shift><Alt>t
   cycle_next = None
@@ -58,7 +59,7 @@
   [[default]]
     background_color = "#131313"
     cursor_color = "#aaaaaa"
-    font = Fira Mono Bold 11
+    font = MesloLGS NF 11
     foreground_color = "#8ae234"
     show_titlebar = False
     scrollback_infinite = True
