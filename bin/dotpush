@@ -4,7 +4,7 @@ main() {
 local GIT=$HOME/git/dotfiles/
 
 git -C $GIT add .
-git -C $GIT commit -m "automatic commit $(date)"
+git -C $GIT commit -m "Scripted commit performed $(date)."
 }
 
 main
