@@ -1,7 +1,7 @@
 [global_config]
   geometry_hinting = True
   borderless = True
-  inactive_color_offset = 0.9932258064516129
+  inactive_color_offset = 0.9932258064516128
 [keybindings]
   new_tab = <Shift><Alt>t
   cycle_next = None

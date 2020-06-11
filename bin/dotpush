@@ -1,6 +1,7 @@
 #! /usr/bin/bash
-# Script that commits and pushes changes made in dotfiles repository.
+# Script that stages, commits and (eventually...) pushes changes made in dotfiles repository.
 
 GIT=$HOME/git/dotfiles/
+
 git -C $GIT add .
 git -C $GIT commit -m "automatic commit $(date)"
