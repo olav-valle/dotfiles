@@ -103,19 +103,36 @@ function make_memo_file() {
 #
 
 function print_help() {
-	printf %b "Usage: memo [OPTION] [STRING]\n"
-	printf %b "Take quick memos from the command line. \n"
-	printf %b "Memos are saved to \$HOME/memo.txt. \n"
-	printf %b "Will prompt for input through stdin if no OPTION or STRING is given. \n"
-	printf %b "\nOptional arguments: \n"
-	printf %b "\t-h\t\tDisplay this help dialog.\n"
-	printf %b "\t-e\t\tOpens memo.txt in vim for editing.\n"
-	printf %b "\t-n\t\tCreates a new memo.txt file.\n\t\t\tTakes a backup of current memo.txt, named old_memo_YYYYMMDD.txt.\n"
-	printf %b "\t-l\t\tLists the last 3 entries of $MFILE.\n"
+cat << EOF
+
+	Usage: memo [OPTION] [STRING]
+
+Take quick memos from the command line.
+
+Will prompt for input through stdin if no OPTION or STRING is given.
+Memos are saved to $HOME/$MFILE.
+
+Optional arguments:
 	
-	printf %b "\nExample: \n \t memo Improve help dialog for memo script. \n\n"
-	printf %b "Result in memo.txt:\n\n"
-	printf %b "$(date)\n\tImprove help dialog for memo script.\n\n"
+	-h		Display this help dialog.
+	
+	-e		Opens memo.txt in vim for editing.
+
+	-n		Creates a new memo.txt file.
+			Takes a backup of current memo.txt, named old_memo_YYYYMMDD.txt.
+	
+	-l		Lists the last 3 entries of $MFILE.
+	
+
+Example:
+	memo Improve help dialog for memo script.
+
+Result in memo.txt:
+
+$(date)
+	Improve help dialog for memo script.
+
+EOF
 }
 
 #
