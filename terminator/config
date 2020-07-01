@@ -3,6 +3,7 @@
   borderless = True
   inactive_color_offset = 0.9932258064516128
   suppress_multiple_term_dialog = True
+  smart_copy = False
 [keybindings]
   new_tab = <Shift><Alt>t
   cycle_next = None
