@@ -1,0 +1,199 @@
+#! /usr/bin/bash
+# Quickly take memos from the command line. 
+# Saves inputs in $HOME/memo.txt by default.
+# 
+# Author: Olav Valle
+# Date: 20200609
+
+# TODO change -e option to add date to document before opening in editor
+
+# TODO add print/read option to show last handfull of entries
+# Maybe use tail?
+
+# TODO add remove last entry option?
+
+# TODO Markdown?
+
+###
+### Script variables
+###
+
+MEMO=$HOME/memo.txt # Full path of memo file. Same as $HOME/$MFILE
+BAK=$HOME/bak_memo.txt # Path for temp backup.
+MFILE=memo.txt # Memo file name.
+
+
+###
+### Functions
+###
+
+#
+# Print the last 3 entries of memo.txt
+#
+
+function print_lines() {
+	if [[ -e $MEMO ]]; then
+		echo "Last 3 entries of $MFILE:"
+		tail -n 9 $MEMO
+	fi
+}
+
+#
+# Writes the user input string to $MEMO.
+# Creates a new memo.txt if one does not exist.
+#
+
+function write_memo() {
+	if [[ ! -e $MEMO ]]; then
+		new_memo_file
+	fi
+
+	printf %b "$(date) \n \t $* \n \n" >> $MEMO
+	echo "New entry:"
+	tail --lines=3 $MEMO
+}
+
+#
+# Presents the user with a text input prompt, returning the input. 
+#
+
+function read_input() {
+	read input
+	echo $input
+}
+
+#
+# Takes a backup of existing file matching the path described by $MEMO. 
+# Renames the backup to old_memo_$DATE.txt, where $DATE is YYYYMMDD.
+#
+
+function backup() {
+	if [[ -e $MEMO ]]; then
+		local oldfile=old_memo_$(date +%Y%m%d).txt
+		mv $MEMO $HOME/$oldfile
+		echo "$MEMO renamed to $oldfile" 
+	fi
+}
+
+#
+# Creates a new file at $MEMO. Renames and backs up existing file if present. 
+#
+
+function new_memo_file() {
+	if [[ -e $MEMO ]]; then
+		# $MEMO already exists, so we make a backup
+		backup
+	fi
+	make_memo_file
+}
+
+#
+# Creates a new memo.txt file. 
+# WILL OVERWRITE EXISTING FILE MATCHING $MEMO PATH.
+# Ensure that safety checks are performed when calling this function.
+#
+
+function make_memo_file() {
+	printf %b "Memo file created $(date). \n \n" > $MEMO
+	echo "New memo.txt created."
+}
+
+#
+# Prints help.
+#
+
+function print_help() {
+cat << EOF
+
+	Usage: memo [OPTION] [STRING]
+
+Take quick memos from the command line.
+
+Will prompt for input through stdin if no OPTION or STRING is given.
+Memos are saved to $HOME/$MFILE.
+
+Optional arguments:
+	
+	-h		Display this help dialog.
+	
+	-e		Opens memo.txt in vim for editing.
+
+	-n		Creates a new memo.txt file.
+			Takes a backup of current memo.txt, named old_memo_YYYYMMDD.txt.
+	
+	-l		Lists the last 3 entries of $MFILE.
+	
+
+Example:
+	memo Improve help dialog for memo script.
+
+Result in memo.txt:
+
+$(date)
+	Improve help dialog for memo script.
+
+EOF
+}
+
+#
+# Ends the script, performing necessary cleanup first.
+#
+
+function end_script() {
+	# If the temp backup file of memo.txt exists, delete it. 
+	if [[ -e $BAK ]]; then
+		rm $BAK
+	fi
+	exit 0
+}
+
+
+#
+# Opens memo.txt in editor, first appending a timestamp.
+#
+
+function open_with_editor() {
+	if [[ -e $MEMO ]]; then
+		printf %b "$(date)\n\t" >> $MEMO
+		edit $MEMO
+	fi
+
+}
+
+#
+# Main function of script.
+#
+
+function main() {
+
+# make a temp backup of $MEMO in case of fatal errors
+	if [[ -e $MEMO ]]; then
+		cp $MEMO $BAK
+	fi
+
+# If there are no arguments, we present the user with a text prompt.
+	if [[ $# -eq 0 ]]; then
+		printf %b "Enter memo: "
+		input=$(read_input)
+		write_memo $input
+	end_script
+	
+# if there is exactly one argument, and it starts with "-"
+	elif [[ $# -eq 1 ]] && [[ $1 =~ ^- ]]; then 
+		case $1 in
+		-e) open_with_editor;; # Opens $MEMO in editor for editing
+		-n) new_memo_file;; # Makes a new memo file, backing up old one first.
+		-h) print_help;;
+		-l) print_lines;; 
+		esac
+	end_script
+
+# If there is more than one argument, treat them all as a string and save it
+	else
+		write_memo $*
+	end_script
+	fi
+}
+
+# Calls function main.
+main $*

@@ -1,0 +1,31 @@
+#! /bin/bash
+# Runs speedtest-cli, and saves the output to ~/speed_test_result.txt
+
+FILE="/home/mort/speed_test_result.txt"
+
+function tofile() {
+	$1 | tee -a $FILE
+}
+
+# Runs and logs output of speedtest to $FILE with some formatting
+function runtest() {
+	echo "Logging results to: $FILE"
+	date | tee -a $FILE 
+	speedtest | tee -a $FILE
+	echo "" | tee -a $FILE
+}
+
+if [[ ! -e $FILE ]]; then # check if log file already exists.
+	touch $FILE # makes the file if not existing.
+
+	if [[ $? -eq 0 ]]; then # anything other than 0 means touch failed to create.
+		echo "Created file: $FILE"
+		runtest
+	else
+		echo "Unable to create file: $FILE"
+		echo "Check directory permissions."
+		exit 1 # quit, since file was not created.
+	fi
+else # FILE already existed, so we call runtest
+	runtest
+fi

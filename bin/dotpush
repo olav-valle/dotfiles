@@ -1,0 +1,10 @@
+#! /usr/bin/bash
+# Script that stages and commits (and eventually pushes...) changes made in dotfiles repository.
+main() {
+local GIT=$HOME/git/dotfiles/
+
+git -C $GIT add .
+git -C $GIT commit -m "Scripted commit performed $(date)."
+}
+
+main
