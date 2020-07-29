@@ -1,0 +1,17 @@
+# pulseaudio defaults to only detecting Astro A50 voice and microphone, not game
+# this is what i had to do to fix it, hopefully it saves someone some time
+# index:subdevice may be different for you
+# resources:
+# https://wiki.archlinux.org/index.php/PulseAudio/Examples at "module-alsa-sink"
+# https://www.freedesktop.org/wiki/Software/PulseAudio/Documentation/User/Modules/#index6h3
+
+.nofail
+
+load-module module-alsa-sink device=hw:3,0 sink_name=voice
+update-sink-proplist voice device.description="Astro A50 Voice"
+# it also incorrectly orders the channel map, i believe this is relatively correct (at least not unbalanced)
+load-module module-alsa-sink device=hw:3,1 sink_name=game channel_map=left,right,fro
+nt-center,rear-center,rear-left,rear-right
+update-sink-proplist game device.description="Astro A50 Game"
+
+load-module module-alsa-source device=hw:3,0
