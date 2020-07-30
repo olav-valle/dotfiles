@@ -1,0 +1,4 @@
+# /etc/udev/rules.d/90-astro-50.rules
+
+# ID 9886:002c is for Astro A50 Gen4
+ACTION=="change", SUBSYSTEMS=="usb", ATTRS{idVendor}=="9886", ATTRS{idProduct}=="002c", ENV{PULSE_PROFILE_SET}="astro-a50-gen4.conf"
