@@ -1,3 +1,4 @@
+# ${HOME}/.config/terminator/config
 [global_config]
   geometry_hinting = True
   borderless = True
