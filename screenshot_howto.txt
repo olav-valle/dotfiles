@@ -1,0 +1,10 @@
+Yes, it's possible just changing a key in gsettings. But due to Bug 699642 you need to create a new shortcut to replace the default one.
+
+First, to change the folder, in a terminal. Let's say your username in the PC is also cialu.
+
+gsettings set org.gnome.gnome-screenshot auto-save-directory 'file:///home/cialu/Downloads'
+
+Second, create a shortcut in Settings > Keyboard, pressing the "+" button there. Assign a name (e.g. "New screenshot") and the command to gnome-screenshot.
+
+Third, click in the "Disabled" label in the new shortcut and press the "Print Screen" key from you PC. Confirm the dialog that will ask you if you want to reassign the key to this new shortcut.
+
