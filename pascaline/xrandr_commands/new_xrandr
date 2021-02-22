@@ -1,0 +1,46 @@
+    # Gsync
+            [Acer]
+xrandr \
+--output DP-2 --mode 2560x1440 --pos 0x0 --rate 144 --primary \
+--output DP-0 --off \
+--output HDMI-0 --off
+
+    # Desk Only
+
+    # Rightward
+            [Acer]|Samsung|
+xrandr \
+--output DP-2 --mode 2560x1440 --pos 0x0 --rate 144 --primary \
+--output DP-0 --mode 1920x1080 --pos 2560x-220 --rotate left \
+--output HDMI-0 --off
+
+    # Leftwards
+    |Samsung|[Acer]
+xrandr \
+--output DP-2 --mode 2560x1440 --pos 0x0 --rate 144 --primary \
+--output DP-0 --mode 1920x1080 --pos -1080x-220 --rotate right \
+--output HDMI-0 --off
+
+    # All 3 Screens
+
+    # Rightward
+            [Acer]|Samsung|[TV]
+xrandr \
+--output DP-2 --mode 2560x1440 --pos 0x0 --rate 144 --primary \
+--output DP-0 --mode 1920x1080 --pos 2560x-220 --rotate left \
+--output HDMI-0 --mode 1920x1080 --pos 3640x0 
+
+    # Leftward
+[TV]|Samsung|[Acer]
+xrandr \
+--output DP-2 --mode 2560x1440 --pos 0x0 --rate 144 --primary \
+--output DP-0 --mode 1920x1080 --pos -1080x-220 --rotate right \
+--output HDMI-0 --mode 1920x1080 --pos -3000x0 
+
+
+    # TV Only
+[TV]
+xrandr \
+--output HDMI-0 --auto --primary \
+--output DP-0 --off \
+--output DP-2 --off

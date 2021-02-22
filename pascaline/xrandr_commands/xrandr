@@ -1,0 +1,39 @@
+All 3 Screens   xrandr \
+                --output DP-0 \
+                --mode 2560x1440 \
+                --pos 0x0 \
+                --rate 144 \
+                
+                --output DP-2 \
+                --mode 1920x1080 \
+                --pos 2560x-220 \
+                --rotate left \
+                
+                --output HDMI-0 \
+                --mode 1920x1080 \
+                --pos 3640x0
+
+Desk Only       xrandr \
+                --output DP-0 \
+                --mode 2560x1440\
+                --pos 0x0 \
+                --rate 144 \
+                
+                --output DP-2 \
+                --mode 1920x1080 \
+                --pos 2560x-220 \
+                --rotate left \
+                
+                --output HDMI-0 \
+                --off
+
+TV Onlty        xrandr \
+                --output HDMI-0 \
+                --auto \
+                --primary \
+                
+                --output DP-0 \
+                --off \
+                
+                --output DP-2 \
+                --off
