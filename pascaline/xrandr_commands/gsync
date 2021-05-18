@@ -3,4 +3,5 @@ xrandr \
 --output DP-0 --off \
 --output HDMI-0 --off
 
-xrandr --output DP-2 --mode 2560x1440 --pos 0x0 --rate 144 --primary --output DP-0 --off --output HDMI-0 --off
+# Current ao. 202009260437
+xrandr --output DP-0 --mode 2560x1440 --pos 0x0 --rate 144 --primary --output DP-0 --off --output HDMI-0 --off
