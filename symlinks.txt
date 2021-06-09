@@ -1,0 +1,2 @@
+ln -s "./nautilus/config/scripts-accels" "$HOME/.config/nautilus/scripts-accels"
+ln -s "./nautilus/share/scripts/" "$HOME/.local/share/nautilus/scripts/" 
