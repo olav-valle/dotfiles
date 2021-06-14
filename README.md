@@ -1,2 +1,2 @@
 # dotfiles
-A collection of various scripts and config files.
+A complete mess of various scripts and config files.

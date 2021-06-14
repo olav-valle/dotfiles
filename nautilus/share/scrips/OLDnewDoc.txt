@@ -1,0 +1,39 @@
+#! /usr/bin/env bash
+
+#PWD=$NAUTILUS_SCRIPT_CURRENT_URI
+#FILES=$NAUTILUS_SCRIPT_SELECTED_FILE_PATHS
+#echo " " >> $HOME/current_uri.txt
+#echo $PWD >> $HOME/current_uri.txt
+#echo $FILES >> $HOME/current_uri.txt
+#PWD=$(echo "$PWD" | sed 's/%20/ /g')
+#echo $PWD >> $HOME/current_uri.txt
+#PWD=$(echo "$PWD" | sed 's/file:\/\///g')
+#echo $PWD >> $HOME/current_uri.txt
+
+# To ensure a unique file name, we can test the directory for 'newDocX.txt', 
+#  where X is incremented until we find one that does not exist. 
+# Can we do it with a regex? Find the highest current X, and increment it? 
+#  Maybe that's too much work..
+#DEF_FILE_NAME="newDocument0.txt"
+FILE=""
+#if [ ! -f $DEF_FILE_NAME ] 
+#then
+#  echo "no file exists"
+#  FILE=$DEF_FILE_NAME
+#else
+  #echo "file exists"
+  FIND_FILE="newDocument"
+  TXT=".txt"
+  I=0
+
+  while [ -f "$FIND_FILE$I$TXT" ]
+  do
+    I=$((I+1))
+  done
+  FILE="$FIND_FILE$I$TXT"
+#fi
+#touch $FILE
+
+#gedit "$PWD/$FILE"
+gedit "$FILE"
+#terminator --working-directory="$PWD" -x "gedit $FILE"

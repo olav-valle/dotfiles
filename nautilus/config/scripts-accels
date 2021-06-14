@@ -1,0 +1,5 @@
+; Example Keybinds
+; Modifiers: <Control> <Alt> <Shift>
+<Shift><Alt>t terminator.sh
+<Shift><Alt>d newDoc.sh
+<Alt>x remove-extension
