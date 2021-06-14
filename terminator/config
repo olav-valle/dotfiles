@@ -1,9 +1,15 @@
-# ${HOME}/.config/terminator/config
 [global_config]
+  handle_size = 5
   geometry_hinting = True
-  borderless = True
-  inactive_color_offset = 0.9932258064516128
+  extra_styling = False
+  title_hide_sizetext = True
+  title_transmit_bg_color = "#db4437"
+  title_inactive_bg_color = "#4285f4"
+  inactive_color_offset = 1.0
+  enabled_plugins = LaunchpadBugURLHandler, LaunchpadCodeURLHandler, APTURLHandler, TerminalShot, Logger, CustomCommandsMenu
   suppress_multiple_term_dialog = True
+  title_use_system_font = False
+  title_font = MesloLGS NF 11
   smart_copy = False
 [keybindings]
   new_tab = <Shift><Alt>t
@@ -58,68 +64,47 @@
   layout_launcher = None
   help = None
 [profiles]
-  [[default]]
-    background_color = "#282828"
+   [[default]]
+    background_color = "#282c34"
+    cursor_color = "#aaaaaa"
+    font = MesloLGS NF 11
+    foreground_color = "#abb2bf"
+    palette = "#282c34:#e06c75:#98c379:#e5c07b:#61afef:#c678dd:#56b6c2:#abb2bf:#555753:#e22836:#8ae234:#fce94f:#729fcf:#ad7fa8:#34e2e2:#eeeeec"
+    use_system_font = False
+ [[old_default]]
+    background_color = "#1a1a1a"
     background_darkness = 0.85
     cursor_color = "#aaaaaa"
     font = MesloLGS NF 11
-    foreground_color = "#8ae234"
-    show_titlebar = False
+    foreground_color = "#cccccc"
     scrollbar_position = hidden
     scrollback_infinite = True
-    palette = "#282828:#cc241d:#98971a:#d79921:#458588:#b16286:#689d6a:#a89984:#928374:#fb4934:#b8bb26:#fabd2f:#83a598:#d3869b:#8ec07c:#ebdbb2"
+    palette = "#1a1a1a:#db4437:#0f9d58:#f4b400:#4285f4:#9e69af:#5f9654:#89695e:#e6e6e6:#e57368:#33b679:#fbcb43:#76a7fa:#c5a5cf:#8cc474:#ab948c"
+    use_system_font = False
+  [[oneDark]]
+    background_color = "#282c34"
+    cursor_color = "#aaaaaa"
+    font = MesloLGS NF 11
+    foreground_color = "#abb2bf"
+    palette = "#282c34:#e06c75:#98c379:#e5c07b:#61afef:#c678dd:#56b6c2:#abb2bf:#555753:#e22836:#8ae234:#fce94f:#729fcf:#ad7fa8:#34e2e2:#eeeeec"
     use_system_font = False
 [layouts]
   [[default]]
-    [[[window0]]]
-      type = Window
-      parent = ""
-    [[[child1]]]
-      type = Terminal
-      parent = window0
-      command = ""
-      directory = ""
-  [[New Layout]]
     [[[child0]]]
       type = Window
       parent = ""
       order = 0
-      position = 0:0
+      position = 1976:619
       maximised = False
-      fullscreen = True
-      size = 1920, 1080
-      title = mort@lovelace: ~/git
-      last_active_term = 05cec1e9-3a1f-410a-9a60-6b4aee11e996
+      fullscreen = False
+      size = 1088, 476
+      title = mort@pascaline:~
+      last_active_term = 181ad1b9-348e-41d0-8470-96a6fd51f922
       last_active_window = True
-    [[[child1]]]
-      type = HPaned
+    [[[terminal1]]]
+      type = Terminal
       parent = child0
       order = 0
-      position = 1108
-      ratio = 0.5785900783289817
-    [[[terminal2]]]
-      type = Terminal
-      parent = child1
-      order = 0
       profile = default
-      uuid = b9ba154f-9099-43f3-8942-2aeace3c5f59
-    [[[child3]]]
-      type = VPaned
-      parent = child1
-      order = 1
-      position = 538
-      ratio = 0.5004651162790698
-    [[[terminal4]]]
-      type = Terminal
-      parent = child3
-      order = 0
-      profile = default
-      uuid = 05cec1e9-3a1f-410a-9a60-6b4aee11e996
-      command = ""
-    [[[terminal5]]]
-      type = Terminal
-      parent = child3
-      order = 1
-      profile = default
-      uuid = b72fd647-b828-47db-8e1f-c4fc8080e4e0
+      uuid = 181ad1b9-348e-41d0-8470-96a6fd51f922
 [plugins]

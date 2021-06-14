@@ -1,4 +1,5 @@
 #! /usr/bin/bash
+#
 # Quickly take memos from the command line. 
 # Saves inputs in $HOME/memo.txt by default.
 # 
